@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Eidolon Guide](README.md)
+* [夜灵指南](README.md)
 * [Vocabulary](vocabulary.md)
 * [Builds](builds/README.md)
   * [Beginner Builds](builds/beginner-builds/README.md)

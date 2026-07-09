@@ -1,22 +1,18 @@
 ---
 icon: house
-metaLinks:
-  alternates:
-    - https://app.gitbook.com/s/sc7MPTyiIfSwOeLlvpUg/
+metaLinks: {}
 ---
 
-# Eidolon Guide
+# 夜灵指南
 
-Feel free to join us on Discord at the [**Eidolon Server**](https://discord.com/invite/mQhzbVv5bg)
+随时欢迎加入我们的 Discord [**Eidolon Server**](https://discord.com/invite/mQhzbVv5bg)
 
-## **SUMMARY**
+## **摘要**
 
-This guide is intended for all skill levels: both beginners and players who want to invest more deeply.\
-Its goal is to help you understand the basic mechanics if you play casually, as well as support players who want to get into speedrunning and improve their times.
+本指南适用于所有水平的玩家：刚入门的玩家和想要更进一步的玩家。\
+它的目标是帮助刚入门的玩家理解基本机制，以及为想要参与竞速的玩家提供帮助并改善成绩。
 
-
-
-## **QUICK MENU**
+## **快速链接**
 
 {% columns %}
 {% column %}
@@ -45,5 +41,5 @@ Its goal is to help you understand the basic mechanics if you play casually, as 
 {% endcolumns %}
 
 {% hint style="warning" %}
-### **Disclaimer:** this guide is still being worked on, if you find any mistakes, something missing or want to contribute to the guide add it to the [suggestions](https://discord.com/channels/1350545484195958874/1363125593327140884) channel in the Eidolon Server.
+### 免责声明：本指南仍在施工中，如果你发现任何问题，或是想要为指南做出贡献，欢迎加入我们的 Discord 频道 Eidolon Server 并在 [suggestions](https://discord.com/channels/1350545484195958874/1363125593327140884) 频道发送内容。
 {% endhint %}
