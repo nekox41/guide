@@ -2,8 +2,8 @@
 
 * [夜灵指南](README.md)
 * [Vocabulary](vocabulary.md)
-* [Builds](builds/README.md)
-  * [Beginner Builds](builds/beginner-builds/README.md)
+* [配装](builds/README.md)
+  * [入门配装](builds/beginner-builds/README.md)
     * [Volt](builds/beginner-builds/volt.md)
     * [Primary Weapon](builds/beginner-builds/primary-weapon.md)
     * [Secondary Weapon](builds/beginner-builds/secondary-weapon.md)

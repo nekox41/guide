@@ -25,12 +25,10 @@ In **squad runs** with two or more players, you can streamline the process by di
 
 * Can be done with any Warframe, that makes it great for Voltless runs
 
-<figure><img src="../.gitbook/assets/QC.png" alt=""><figcaption></figcaption></figure>
-
-(red dots viable vomv spawn locations)\
-**T1:** take as long as you want, ideally **fly for T1** and save your **blink for T2**\
-**T2:** as fast as you can make it\
-**T3:** as fast as you can make it\
+(red dots viable vomv spawn locations)\
+**T1:** take as long as you want, ideally **fly for T1** and save your **blink for T2**\
+**T2:** as fast as you can make it\
+**T3:** as fast as you can make it\
 **T4**: no time pressure
 
 </details>

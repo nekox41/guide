@@ -11,8 +11,6 @@ metaLinks:
 **Update 42: The Shadowgrapher** (25/03/2026)
 
 Eidolons ignore terrain collisions and can potentially clip deep into water or to areas where Lure AI will have trouble reaching. Be careful about breaking multiple limbs from one side in a row.
-
-![](../../.gitbook/assets/image.png)
 {% endhint %}
 
 ## Eidolon Walk = Limb Order

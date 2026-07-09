@@ -6,29 +6,29 @@ metaLinks:
 
 # Volt
 
-<figure><img src="https://1960884447-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FMnWMWMKLrFw5Len33GHR%2Fuploads%2FXBUHkPyCCNX8ZsZJNCc8%2Funknown.png?alt=media&#x26;token=388fa3ae-4d90-4ba5-b031-3b2780cb1689" alt=""><figcaption><p>Regular Volt or Volt Prime can be used</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1db67a77-7261-4869-867c-7ecc6642d341.png" alt=""><figcaption><p>普通版本和Prime版本都可以使用</p></figcaption></figure>
 
-Volt is one of the best Warframes for Eidolon hunting. All of his abilities are useful, except for the fourth one, which is usually replaced with Eclipse to gain a significant damage buff for your weapons.
+Volt 是夜灵狩猎中的顶级战甲之一。除了4技能外，他的所有技能都很有用，而该技能通常被替换为 Mirage 的黯然失色，以换取可观的武器增伤。
 
-1. [**Shock**](https://wiki.warframe.com/w/Shock) **(with Shock Trooper)**\
-   Shock Trooper grants an Electric damage bonus to your weapons, increasing your damage
-2. [**Speed**](https://wiki.warframe.com/w/Speed)\
-   Speed increases your movement speed and also works while in Archwing. Very useful for moving quickly across the open worlds
-3. [**Electric Shield**](https://wiki.warframe.com/w/Electric_Shield)\
-   Any projectile fired through this shield ( including AMP shots ) gains an additional damage bonus and extra critical damage. This is one of the core mechanics of Volt’s gameplay in Eidolon
-4.  [**Eclipse**](https://wiki.warframe.com/w/Eclipse) **(**[**subsume**](https://wiki.warframe.com/w/Helminth#Ability_Replacement)**)**\
-    Discharge is replaced with Eclipse, which provides a significant damage buff and optional damage reduction (not both at the same time)
+1. [**电击**](https://wiki.warframe.com/w/Shock) **(电击奇兵)**\
+   电击奇兵会为武器附带电击伤害加成，增加输出
+2. [**加速**](https://wiki.warframe.com/w/Speed)\
+   加速会提升你的移动速度，在曲翼模式下同样生效。此技能对于快速穿越开放地图非常有用
+3. [**电力屏障**](https://wiki.warframe.com/w/Electric_Shield)\
+   任何穿过电力屏障的射击（包括增幅器）都会获得附加伤害和额外的暴击伤害。这个技能也是 Volt 在夜灵狩猎中的核心技能。
+4.  [**黯然失色**](https://wiki.warframe.com/w/Eclipse) **(**[**移植**](https://wiki.warframe.com/w/Helminth#Ability_Replacement)**)**\
+    使用黯然失色替换电能释放，它会提供客观的伤害加成或者可选的伤害减免 Buff（二者不能同时使用）
 
-    <div data-gb-custom-block data-tag="hint" data-style="info" class="hint hint-info"><p>Ideally get Volt Prime, as it comes with higher base energy and sprint speed</p></div>
+    <div data-gb-custom-block data-tag="hint" data-style="info" class="hint hint-info"><p>理想情况下使用 Volt Prime，他拥有更高的基础能量和冲刺速度。</p></div>
 
-[**Umbra Mods**](https://wiki.warframe.com/w/Umbra_Mods)
+[**暗影 Mods**](https://wiki.warframe.com/w/Umbra_Mods)
 
-* to greatly boost sentient damage reduction, you don't need them Max Rank
+* 获得可观的 Sentient 伤害减免，不需要将它们升到满级。
 
-[**Arcane Nullifier**](https://wiki.warframe.com/w/Arcane_Nullifier)
+[**赋能消磁**](https://wiki.warframe.com/w/Arcane_Nullifier)
 
-* to prevent [Magnetic Procs](https://wiki.warframe.com/w/Damage/Magnetic_Damage/#Status_Effects)
+* 避免触发磁力异常
 
-[**Archon Shards**](https://wiki.warframe.com/w/Archon_Shard)
+[**执刑官源力石**](https://wiki.warframe.com/w/Archon_Shard)
 
-* they are not needed at this point, you can comfortably hunt shardless or if you have a surplus add 1 or 2 [Amber Archon Shards](https://wiki.warframe.com/w/Amber_Archon_Shard) for casting speed
+* 不需要装备执刑官源力石，你也可以轻松的完成狩猎。如果你有多的源力石，可以尝试安装一到两个琥珀源力石提升施放速度。
