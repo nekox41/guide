@@ -5,21 +5,22 @@ metaLinks:
       https://app.gitbook.com/s/sc7MPTyiIfSwOeLlvpUg/builds/beginner-builds/archwing
 ---
 
-# Archwing
+# 曲翼
 
-## Itzal
+## 刺影
 
 ![](https://content.gitbook.com/content/SwotjVkQd1faB6N1f6j4/blobs/026lQkjaaJuSvRCC8boj/image)
 
-Itzal is the best Archwing for Eidolon hunting
+刺影是夜灵狩猎中最好的曲翼。
 
-You only need two essential mods, but it’s recommended to invest in survivability, range, and efficiency
+你只需要两个关键 mod ，但推荐额外装备一些生存能力、范围和技能效率的 mod。
 
 {% hint style="danger" %}
-Do NOT add Strength so as not to kill Vomvalysts
+不要增加技能强度，避免杀死小夜灵。
 {% endhint %}
 
-**Key Mods**
+**关键 Mods**
 
-* [**Cold Snap**](https://wiki.warframe.com/w/Cold_Snap)**:** makes your 3rd ability (Cosmic Rush) freeze enemies, especially useful for dealing with Vomvalysts
-* [**Hyperion Thrusters**](https://wiki.warframe.com/w/Hyperion_Thrusters)**:** boosts your sprint speed even further. Moving fast becomes increasingly important as your runs get more efficient
+* [**寒流来袭**](https://warframe.huijiwiki.com/wiki/%E5%AF%92%E6%B5%81%E6%9D%A5%E8%A2%AD)**:** 使你的 3 技能（星体震荡）可以冻结敌人，对于处理小夜灵非常有帮助。
+* [**超越推进**](https://warframe.huijiwiki.com/wiki/%E8%B6%85%E8%B6%8A%E6%8E%A8%E8%BF%9B)**:** 进一步提升你的冲刺速度。随着狩猎效率的提高，冲刺速度会变得越来越重要。
+
