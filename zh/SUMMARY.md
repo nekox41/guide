@@ -10,7 +10,7 @@
     * [近战武器](builds/beginner-builds/melee-weapon.md)
     * [守护](builds/beginner-builds/sentinel-companion.md)
     * [曲翼](builds/beginner-builds/archwing.md)
-    * [Parazon](builds/beginner-builds/parazon.md)
+    * [灭骸之刃](builds/beginner-builds/parazon.md)
   * [Advanced Builds](builds/advanced-builds/README.md)
     * [Volt](builds/advanced-builds/volt.md)
     * [Nova](builds/advanced-builds/nova.md)
