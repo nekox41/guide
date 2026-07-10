@@ -7,7 +7,7 @@
     * [Volt](builds/beginner-builds/volt.md)
     * [主要武器](builds/beginner-builds/primary-weapon.md)
     * [次要武器](builds/beginner-builds/secondary-weapon.md)
-    * [Melee Weapon](builds/beginner-builds/melee-weapon.md)
+    * [近战武器](builds/beginner-builds/melee-weapon.md)
     * [Sentinel Companion](builds/beginner-builds/sentinel-companion.md)
     * [Archwing](builds/beginner-builds/archwing.md)
     * [Parazon](builds/beginner-builds/parazon.md)
