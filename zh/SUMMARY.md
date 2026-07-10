@@ -8,7 +8,7 @@
     * [主要武器](builds/beginner-builds/primary-weapon.md)
     * [次要武器](builds/beginner-builds/secondary-weapon.md)
     * [近战武器](builds/beginner-builds/melee-weapon.md)
-    * [Sentinel Companion](builds/beginner-builds/sentinel-companion.md)
+    * [守护](builds/beginner-builds/sentinel-companion.md)
     * [Archwing](builds/beginner-builds/archwing.md)
     * [Parazon](builds/beginner-builds/parazon.md)
   * [Advanced Builds](builds/advanced-builds/README.md)
