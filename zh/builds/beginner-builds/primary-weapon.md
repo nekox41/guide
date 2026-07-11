@@ -10,7 +10,7 @@ metaLinks:
 
 ## 天穹之顶
 
-![私法军备是故意保持0级](https://content.gitbook.com/content/SwotjVkQd1faB6N1f6j4/blobs/R1FFgLlYqVBkfCYOgFBJ/image)
+![私法军备是故意保持0级](../../.gitbook/assets/入门_天穹之顶.png)
 
 {% hint style="info" %}
 [**天穹之顶**](https://warframe.huijiwiki.com/wiki/%E5%A4%A9%E7%A9%B9%E4%B9%8B%E9%A1%B6)是[**每日献礼**](https://warframe.huijiwiki.com/wiki/%E6%AF%8F%E6%97%A5%E7%8C%AE%E7%A4%BC)系统的奖励。它会在100天时作为奖励出现，此后每200天出现一次，直到你将其选为奖励。
@@ -34,7 +34,7 @@ metaLinks:
 
 ## 月面狂风 或者 绝路 Prime
 
-![Same build for both sniper rifles](https://content.gitbook.com/content/SwotjVkQd1faB6N1f6j4/blobs/R89VkkK03NWjn9bfDj88/image)
+![两把狙击枪的配装相同](../../.gitbook/assets/入门_月面狂风.png)
 
 {% hint style="info" %}
 **月面狂风**可以[**刷取**](https://warframe.huijiwiki.com/wiki/%E6%9C%88%E9%9D%A2%E7%8B%82%E9%A3%8E)，它的获取相对简单\

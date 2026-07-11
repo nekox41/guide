@@ -9,7 +9,7 @@ metaLinks:
 
 ## 瓦斯提枪刃 或者 蛇刃
 
-![](https://content.gitbook.com/content/SwotjVkQd1faB6N1f6j4/blobs/LGWWOtb11uqsjMPjkQTw/image)
+![](../../.gitbook/assets/瓦斯提枪刃.png)
 
 {% hint style="info" %}
 * [**瓦斯提枪刃**](https://warframe.huijiwiki.com/wiki/%E7%93%A6%E6%96%AF%E6%8F%90%E6%9E%AA%E5%88%83)可以用[**蛇刃**](https://warframe.huijiwiki.com/wiki/%E8%9B%87%E5%88%83)替代，但瓦斯提枪刃更好用。

@@ -6,7 +6,7 @@ metaLinks:
 
 # Volt
 
-<figure><img src="../../.gitbook/assets/1db67a77-7261-4869-867c-7ecc6642d341.png" alt=""><figcaption><p>普通版本和Prime版本都可以使用</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/入门_Volt.png" alt=""><figcaption><p>普通版本和Prime版本都可以使用</p></figcaption></figure>
 
 Volt 是夜灵狩猎中的顶级战甲之一。除了4技能外，他的所有技能都很有用，而该技能通常被替换为 Mirage 的黯然失色，以换取可观的武器增伤。
 

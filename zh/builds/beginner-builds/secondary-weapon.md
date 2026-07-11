@@ -10,7 +10,7 @@ metaLinks:
 
 ## 丧钟 Prime
 
-![](https://content.gitbook.com/content/SwotjVkQd1faB6N1f6j4/blobs/aAetLUyCQmJXulUAo5Xj/image)
+![](../../.gitbook/assets/入门_丧钟Prime.png)
 
 {% hint style="info" %}
 **丧钟 Prime** 可以从 [**WF.market**](https://warframe.market/items/knell_prime_set?type=sell) 上购买
@@ -36,10 +36,12 @@ metaLinks:
 
 ## 灵化毒囊双枪
 
+<figure><img src="../../.gitbook/assets/入门_毒囊双枪.png" alt=""><figcaption></figcaption></figure>
+
 {% hint style="info" %}
 必须装备 [**毒囊双枪灵化之源**](https://warframe.huijiwiki.com/wiki/%E6%AF%92%E5%9B%8A%E5%8F%8C%E6%9E%AA%E7%81%B5%E5%8C%96%E4%B9%8B%E6%BA%90)
 
 这个武器比丧钟更好，但是他需要**灵化之源**，这可能需要等待数周才可以[**获取**](https://warframe.huijiwiki.com/wiki/%E6%97%A0%E5%B0%BD%E5%9B%9E%E5%BB%8A#%E9%92%A2%E9%93%81%E4%B9%8B%E8%B7%AF%E6%97%A0%E5%B0%BD%E5%9B%9E%E5%BB%8A)。
 {% endhint %}
 
-<figure><img src="https://2250278911-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FSwotjVkQd1faB6N1f6j4%2Fuploads%2F8WPJ0RfEQ41v1M0JBfIp%2Fimage.png?alt=media&#x26;token=315a21ba-7511-4c2a-9277-f9e00a3930bc" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/毒囊双枪灵化.png" alt=""><figcaption></figcaption></figure>

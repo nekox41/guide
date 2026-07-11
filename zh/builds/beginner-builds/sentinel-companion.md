@@ -16,7 +16,7 @@ metaLinks:
 
 ## 蛟龙 Prime
 
-<figure><img src="https://1960884447-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FMnWMWMKLrFw5Len33GHR%2Fuploads%2FYjam5BTgo3GjoJ7QV7Dh%2Funknown.png?alt=media&#x26;token=dac46721-813c-4dc5-a038-d345a830ad73" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/蛟龙Prime.png" alt=""><figcaption></figcaption></figure>
 
 **关键 Mods:**
 

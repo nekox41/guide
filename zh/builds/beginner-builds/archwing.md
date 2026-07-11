@@ -9,7 +9,7 @@ metaLinks:
 
 ## 刺影
 
-![](https://content.gitbook.com/content/SwotjVkQd1faB6N1f6j4/blobs/026lQkjaaJuSvRCC8boj/image)
+![](../../.gitbook/assets/刺影.png)
 
 刺影是夜灵狩猎中最好的曲翼。
 

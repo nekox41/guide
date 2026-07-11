@@ -7,7 +7,7 @@ metaLinks:
 
 # 灭骸之刃
 
-![](https://content.gitbook.com/content/SwotjVkQd1faB6N1f6j4/blobs/T9E7xOuNqjX14LWcqnzS/image)
+![](../../.gitbook/assets/灭骸之刃.png)
 
 {% hint style="info" %}
 [**溜之大吉**](https://warframe.huijiwiki.com/wiki/%E6%BA%9C%E4%B9%8B%E5%A4%A7%E5%90%89)是最有帮助的 mod ，它可以帮助你在首充后快速的到达兆力使的位置。
