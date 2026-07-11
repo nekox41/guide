@@ -21,7 +21,7 @@
     * [蛟龙 Prime](builds/advanced-builds/wyrm-prime.md)
     * [灭骸之刃](builds/advanced-builds/parazon.md)
   * [紫卡指南](builds/riven-guide.md)
-  * [Focus School](builds/focus-school.md)
+  * [专精学派](builds/focus-school.md)
   * [Amp Builds - Modules](builds/amp-builds-modules.md)
   * [Amp Mods - Thara](builds/amp-mods-thara.md)
   * [Amp & Operator Arcanes](builds/amp-and-operator-arcanes.md)
