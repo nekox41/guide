@@ -5,11 +5,11 @@ metaLinks:
       https://app.gitbook.com/s/sc7MPTyiIfSwOeLlvpUg/builds/advanced-builds/wyrm-prime
 ---
 
-# Wyrm Prime
+# 蛟龙 Prime
 
-![](https://content.gitbook.com/content/SwotjVkQd1faB6N1f6j4/blobs/O168SeBpk0c0hAlCsBFW/image)
+![](../../.gitbook/assets/蛟龙Prime.png)
 
 {% hint style="warning" %}
-[**Synth Fiber**](https://wiki.warframe.com/w/Synth_Fiber) or [**Synth Deconstruct**](https://wiki.warframe.com/w/Synth_Deconstruct) can be used to passively reload your Zenith, however you should avoid them if you plan on using [**Primary Plated Rounds**](https://wiki.warframe.com/w/Primary_Plated_Round)
+[**合成纤维**](https://warframe.huijiwiki.com/wiki/%E5%90%88%E6%88%90%E7%BA%A4%E7%BB%B4)或者[**合成解构**](https://warframe.huijiwiki.com/wiki/%E5%90%88%E6%88%90%E8%A7%A3%E6%9E%84)可以用来自动装填天穹之顶，如果你打算使用[**主要镀金弹头**](https://warframe.huijiwiki.com/wiki/%E4%B8%BB%E8%A6%81%E9%95%80%E9%87%91%E5%BC%B9%E5%A4%B4)请避免装备。
 {% endhint %}
 

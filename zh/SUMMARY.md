@@ -18,7 +18,7 @@
     * [天穹之顶](builds/advanced-builds/zenith.md)
     * [次要武器](builds/advanced-builds/secondary.md)
     * [瓦斯提枪刃](builds/advanced-builds/vastilok.md)
-    * [Wyrm Prime](builds/advanced-builds/wyrm-prime.md)
+    * [蛟龙 Prime](builds/advanced-builds/wyrm-prime.md)
     * [Parazon](builds/advanced-builds/parazon.md)
   * [Riven Guide](builds/riven-guide.md)
   * [Focus School](builds/focus-school.md)
