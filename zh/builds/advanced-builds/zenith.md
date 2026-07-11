@@ -9,11 +9,11 @@ metaLinks:
 
 ## 单人 3.2 射速 3 多重
 
-![](../../.gitbook/assets/4fba2fbe-05ec-47ef-9447-06b701d8891c.png)
+![](../../.gitbook/assets/天穹单人3.2射速3多重.png)
 
 ## 单人 3.2 射速 2 多重
 
-![私法军备特意保持0级](../../.gitbook/assets/dbcc30b1-7cc3-48c0-8d78-73d35406efc2.png)
+![私法军备特意保持0级](../../.gitbook/assets/天穹单人3.2射速2多重.png)
 
 ## 多重 8.7 射速 3 多重
 

@@ -5,36 +5,36 @@ metaLinks:
       https://app.gitbook.com/s/sc7MPTyiIfSwOeLlvpUg/builds/advanced-builds/secondary
 ---
 
-# Secondary
+# 次要武器
 
-## Dual Toxocyst Incarnon
+## 灵化毒囊双枪
 
-#### **Secondary Outburst Build**
+#### **次要爆发配装**
 
-![](https://content.gitbook.com/content/SwotjVkQd1faB6N1f6j4/blobs/0qsEOVjVaSqEasefY7Qg/image)
+![](../../.gitbook/assets/毒囊双枪次要爆发.png)
 
-![](https://content.gitbook.com/content/SwotjVkQd1faB6N1f6j4/blobs/5WmCck96coFJOQSVt3lW/image)
-
-{% hint style="warning" %}
-The Secondary Outburst build is almost pointless now since we can [<mark style="color:$success;">break limbs with our Amps</mark>](../../basics/how-to-break-shield-+-limb.md) though it is still very powerful and useful for some niche cases
-{% endhint %}
-
-#### Capshot Build
-
-![](https://content.gitbook.com/content/SwotjVkQd1faB6N1f6j4/blobs/rt1NW0EmZYOP8Y5ZEITR/image)
-
-{% hint style="info" %}
-Makes use of [Pistol Acuity](https://wiki.warframe.com/w/Pistol_Acuity) to massively increase **headshot damage**
-{% endhint %}
+![](../../.gitbook/assets/毒囊双枪灵化.png)
 
 {% hint style="warning" %}
-You may want to change your **Evolution II** to Perk 1: Carnage Reign
+目前次要爆发配装几乎没用了，因为我们可以[直接使用增幅器击破关节](../../basics/how-to-break-shield-+-limb.md)，尽管它对于某些特定情况下还有用。
 {% endhint %}
 
-## Sicarus Incarnon
+#### 本体配装
 
-![](https://content.gitbook.com/content/SwotjVkQd1faB6N1f6j4/blobs/xaDcSmHHD9nM1Eli51IE/image)
+![](../../.gitbook/assets/毒囊双枪Capshot.png)
 
 {% hint style="info" %}
-Use the same builds as for Dual Toxocyst Incarnon, and the rivens recommended in the [<mark style="color:$success;">**riven guide**</mark>](../riven-guide.md)
+确保携带[**敏锐手枪**](https://warframe.huijiwiki.com/wiki/%E6%95%8F%E9%94%90%E6%89%8B%E6%9E%AA)以大幅增加爆头伤害。
+{% endhint %}
+
+{% hint style="warning" %}
+也可以将你的第二个灵化词条改成第一个选项：屠杀统治
+{% endhint %}
+
+## 灵化暗杀者
+
+![](../../.gitbook/assets/毒囊双枪（暗杀者示例）.png)
+
+{% hint style="info" %}
+使用和灵化毒囊双枪相同的配卡，和[<mark style="color:$success;">**紫卡指南**</mark>](../riven-guide.md)中推荐的紫卡。
 {% endhint %}
