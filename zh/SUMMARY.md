@@ -19,7 +19,7 @@
     * [次要武器](builds/advanced-builds/secondary.md)
     * [瓦斯提枪刃](builds/advanced-builds/vastilok.md)
     * [蛟龙 Prime](builds/advanced-builds/wyrm-prime.md)
-    * [Parazon](builds/advanced-builds/parazon.md)
+    * [灭骸之刃](builds/advanced-builds/parazon.md)
   * [Riven Guide](builds/riven-guide.md)
   * [Focus School](builds/focus-school.md)
   * [Amp Builds - Modules](builds/amp-builds-modules.md)
