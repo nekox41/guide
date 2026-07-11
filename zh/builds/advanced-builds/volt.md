@@ -14,7 +14,7 @@ metaLinks:
 **暗影生命力**、**能量枢纽**和**坚定赋能**是可替换的
 {% endhint %}
 
-## 多人
+## 双人
 
 ![](../../.gitbook/assets/进阶_多人Volt.png)
 

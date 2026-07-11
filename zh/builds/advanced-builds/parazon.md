@@ -16,5 +16,5 @@ metaLinks:
 {% endhint %}
 
 {% hint style="danger" %}
-在 Nova 多人中<mark style="color:$danger;">**避免携带**</mark>[**无迹可寻**](https://warframe.huijiwiki.com/wiki/%E6%97%A0%E8%BF%B9%E5%8F%AF%E5%AF%BB)。如果单人想要装备此 mod，最好在无障碍里将隐身视觉效果改成“<mark style="color:$warning;">**半透明斗篷**</mark>”或者“<mark style="color:$warning;">**发光斗篷**</mark>”。
+在 Nova 双人中<mark style="color:$danger;">**避免携带**</mark>[**无迹可寻**](https://warframe.huijiwiki.com/wiki/%E6%97%A0%E8%BF%B9%E5%8F%AF%E5%AF%BB)。如果单人想要装备此 mod，最好在无障碍里将隐身视觉效果改成“<mark style="color:$warning;">**半透明斗篷**</mark>”或者“<mark style="color:$warning;">**发光斗篷**</mark>”。
 {% endhint %}

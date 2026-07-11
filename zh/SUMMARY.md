@@ -20,7 +20,7 @@
     * [瓦斯提枪刃](builds/advanced-builds/vastilok.md)
     * [蛟龙 Prime](builds/advanced-builds/wyrm-prime.md)
     * [灭骸之刃](builds/advanced-builds/parazon.md)
-  * [Riven Guide](builds/riven-guide.md)
+  * [紫卡指南](builds/riven-guide.md)
   * [Focus School](builds/focus-school.md)
   * [Amp Builds - Modules](builds/amp-builds-modules.md)
   * [Amp Mods - Thara](builds/amp-mods-thara.md)

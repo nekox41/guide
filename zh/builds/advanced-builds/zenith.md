@@ -15,11 +15,11 @@ metaLinks:
 
 ![私法军备特意保持0级](../../.gitbook/assets/天穹单人3.2射速2多重.png)
 
-## 多重 8.7 射速 3 多重
+## 双人 8.7 射速 3 多重
 
 <figure><img src="../../.gitbook/assets/多人8.7射速3多重天穹.png" alt=""><figcaption><p>在战甲上装备紫晶源力石增加主武器电击伤害复合元素为辐射</p></figcaption></figure>
 
-## 多人 10 射速 2 多重
+## 双人 10 射速 2 多重
 
 ![](../../.gitbook/assets/多人10射速2多重天穹.png)
 

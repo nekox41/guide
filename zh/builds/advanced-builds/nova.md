@@ -6,7 +6,7 @@ metaLinks:
 
 # Nova
 
-## 多人
+## 双人
 
 <figure><img src="../../.gitbook/assets/Nova多人.png" alt=""><figcaption></figcaption></figure>
 
@@ -23,7 +23,7 @@ metaLinks:
 * [**翻滚防护**](https://warframe.huijiwiki.com/wiki/%E7%BF%BB%E6%BB%9A%E9%98%B2%E6%8A%A4)是可替换槽位，但仍然推荐携带，保证生存能力。
 {% endhint %}
 
-## Solo
+## 单人
 
 <figure><img src="../../.gitbook/assets/Nova单人.png" alt=""><figcaption></figcaption></figure>
 
