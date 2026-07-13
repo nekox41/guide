@@ -4,34 +4,34 @@ metaLinks:
     - https://app.gitbook.com/s/sc7MPTyiIfSwOeLlvpUg/builds/amp-builds-modules
 ---
 
-# Amp Builds - Modules
+# 增幅器组装
 
-It will be your operator’s weapon that allows you to break the Eidolon’s shield
+增幅器是指挥官武器，用来打破夜灵护盾。
 
 {% hint style="info" %}
-To unlock Amps, you need to have completed the quests [**The War Within**](https://wiki.warframe.com/w/The_War_Within) and [**Saya’s Vigil**](https://wiki.warframe.com/w/Saya's_Vigil).
+为了解锁增幅器，你需要先完成主线[**内战**](https://warframe.huijiwiki.com/wiki/%E5%86%85%E6%88%98)和[**萨娅的守夜**](https://warframe.huijiwiki.com/wiki/%E8%90%A8%E5%A8%85%E7%9A%84%E5%AE%88%E5%A4%9C)。
 
-For the more advanced Amps, you will also need to complete the [**Vox Solaris**](https://wiki.warframe.com/w/Vox_Solaris_\(Quest\)) quest and reach the Old Mate rank with [**Solaris United**](https://wiki.warframe.com/w/Solaris_United) in Fortuna
+要解锁进阶的增幅器部件，你需要完成[**索拉利斯之声**](https://warframe.huijiwiki.com/wiki/%E7%B4%A2%E6%8B%89%E9%87%8C%E6%96%AF%E4%B9%8B%E5%A3%B0%EF%BC%88%E7%B3%BB%E5%88%97%E4%BB%BB%E5%8A%A1%EF%BC%89)任务并达到金星声望的等级 5。
 {% endhint %}
 
-![Acquisition: Quill Onkko in Cetus / Little Duck in Fortuna](https://content.gitbook.com/content/SwotjVkQd1faB6N1f6j4/blobs/FCIS3ecBBMOmJyOSpPHL/image)
+![夜羽（希图斯）| 小鸭子（索拉里斯）](../.gitbook/assets/增幅器分级.jpg)
 
-### **Raplak – Shraksun – Lohrin (1-2-3)**
+### **拉普拉克棱镜 – 施拉克孙支架 – 诺林曲柄 (1-2-3)**
 
-* The best Amp if you haven’t unlocked Fortuna yet
-* All parts for this Amp can be purchased from Quill Onkko
+* 如果你还没有解锁福尔图娜，那么这就是最好的增幅器。
+* 所有部件都可以在夜羽昂克那里购买。
 
-### **Raplak – Shraksun – Certus (1-2-7)**
+### **拉普拉克棱镜 – 施拉克孙支架 – 瑟图斯曲柄 (1-2-7)**
 
-* Arguably the best Amp for solo hunting
+* 单人狩猎毫无疑问的最佳增幅器。
 
-### **Raplak – Propa – Certus (1-7-7)**
+### **拉普拉克棱镜 – 普洛帕支架 – 瑟图斯曲柄 (1-7-7)**
 
-* Still the meta Amp for Nova duos
-* The only option for Clients
-* Great for beginners in any format
+* 在 Nova 双人中仍然是最佳选择。
+* 客机的唯一选择。
+* 无论单人还是多人，作为入门增幅器都很不错。
 
-<mark style="color:$info;">**Klamora – Propa – Certus (7-7-7)**</mark>
+<mark style="color:$info;">**克拉莫棱镜 – 普洛帕支架 – 瑟图斯曲柄 (7-7-7)**</mark>
 
-* <mark style="color:$info;">Braindead limb breaks</mark> [<mark style="color:$info;">video link</mark>](https://youtu.be/rCspT7NIE-M?si=qUOLsAi2Mh1Dxf9b)
-* <mark style="color:$info;">Only for new hunters with no interest in learning how to hunt properly</mark>
+* <mark style="color:$info;">非常无脑的选择。</mark>
+* <mark style="color:$info;">仅限那些不想深入学习的新手。</mark>

@@ -4,14 +4,14 @@ metaLinks:
     - https://app.gitbook.com/s/sc7MPTyiIfSwOeLlvpUg/builds/amp-mods-thara
 ---
 
-# Amp Mods - Thara
+# 增幅器 MOD - 狂勇
 
 <details>
 
 <summary><strong>The Old Peace - Quickstart</strong></summary>
 
-1. Finish **The Old Peace Quest**
-2. Go to the in-game Market and buy **Tektolyst Artifact Acquisition Pack** (175p)
+1. 完成**旧日和平系列任务**
+2. 前往游戏内的商城购买**工匠使文物获取组合包**（175P）
 3. Go to the Sanctum Anatomica in Deimos as the **Drifter** not the Operator
 4. Use the gearwheel to teleport to "[**La Cathedrale**](https://wiki.warframe.com/w/La_Cath%C3%A9drale)", or just walk to it its a big circular portal, and interact with it
 5. Talk to Marie (Wisp), and buy [**Thara**](https://wiki.warframe.com/w/Tektolyst_Artifact#Thara) (the bow) from her, that's the Madurai weapon **don't buy anything else**
