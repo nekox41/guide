@@ -8,92 +8,92 @@ metaLinks:
 
 <details>
 
-<summary><strong>The Old Peace - Quickstart</strong></summary>
+<summary><strong>旧日和平 - 快速开始</strong></summary>
 
 1. 完成**旧日和平系列任务**
 2. 前往游戏内的商城购买**工匠使文物获取组合包**（175P）
-3. Go to the Sanctum Anatomica in Deimos as the **Drifter** not the Operator
-4. Use the gearwheel to teleport to "[**La Cathedrale**](https://wiki.warframe.com/w/La_Cath%C3%A9drale)", or just walk to it its a big circular portal, and interact with it
-5. Talk to Marie (Wisp), and buy [**Thara**](https://wiki.warframe.com/w/Tektolyst_Artifact#Thara) (the bow) from her, that's the Madurai weapon **don't buy anything else**
+3. 切换到**漂泊者**，并前往火卫二的解剖圣所
+4. 按下“Q”键快速移动到[**大教堂**](https://warframe.huijiwiki.com/wiki/%E5%A4%A7%E6%95%99%E5%A0%82)
+5. 和玛丽对话，然后从她那里购买[**狂勇**](https://warframe.huijiwiki.com/wiki/%E5%B7%A5%E5%8C%A0%E4%BD%BF%E6%96%87%E7%89%A9#Madurai%E5%AD%A6%E6%B4%BE-0)（弓），这是 Madurai 专精武器，**不要购买其他的**
 
-That's it now you have the option to mod **Thara** which will boost your amp damage with the right mods
-
-</details>
-
-<details>
-
-<summary><strong>How to get the mods</strong></summary>
-
-* [**Trade for them**](https://warframe.market/items/hok_kaal?type=sell) or
-* After you finish the quest [**U41: The Old Peace**](https://wiki.warframe.com/w/Update_41), you get a new option for the navigation console [**The Dark Refractory**](https://wiki.warframe.com/w/Dark_Refractory), running any of the missions from [**The Perita Rebellion**](https://wiki.warframe.com/w/The_Perita_Rebellion) will get you the mods, its just slow but you should get everything in about 2 hours
-
-</details>
-
-<figure><img src="https://1960884447-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FMnWMWMKLrFw5Len33GHR%2Fuploads%2FhDMEZ7Yt1O9bkDNH48GO%2Funknown.png?alt=media&#x26;token=d907235d-bece-4f99-a8ef-58b8e249ee03" alt="" width="563"><figcaption></figcaption></figure>
-
-### **Must have mods**
-
-<details>
-
-<summary><strong>Hok-Kaal</strong></summary>
-
-* After using Void Mode, the next Amp attack deals **x3.0 bonus damage** (cooldown 5 sec)
-* Keep in mind your Amp’s secondary fire is also counted as a single shot
+现在你可以在**狂勇**上装备 mod，装备正确的 mod 可以提升增幅器的伤害。
 
 </details>
 
 <details>
 
-<summary><strong>Omn-Evi</strong></summary>
+<summary><strong>如何获取这些 mod</strong></summary>
 
-* **+60% Amp Critical Chance** and +10% Amp Critical Damage for each Zenurik School Mod
-* This mod allows clients to reach 100% Propa CC ([**client propa bug**](https://forums.warframe.com/topic/1454706-amp-bug-for-clients/)**)**
+* [**从 wm 交易**](https://warframe.market/items/hok_kaal?type=sell) 或者
+* 在你完成序列任务[**旧日和平**](https://warframe.huijiwiki.com/wiki/%E6%97%A7%E6%97%A5%E5%92%8C%E5%B9%B3)之后，你会在星图导航那里看到[**深溯池**](https://warframe.huijiwiki.com/wiki/%E6%B7%B1%E6%BA%AF%E6%B1%A0)选项，其中[**佩利塔叛乱**](https://warframe.huijiwiki.com/wiki/%E4%BD%A9%E9%87%8C%E5%A1%94%E5%8F%9B%E4%B9%B1)的每个人物都会掉落这些 mod，大概 2 小时左右你就能获取到所有需要的 mod。
+
+</details>
+
+<figure><img src="../.gitbook/assets/34296ef2-a54c-4027-b510-e8a3c2891141.png" alt=""><figcaption></figcaption></figure>
+
+### **必备 MOD**
+
+<details>
+
+<summary><strong>霍卡</strong></summary>
+
+* 在进入虚空模式后，增幅器的下一次攻击会获得 **x3.0 额外伤害**（冷却时间 5 秒）
+* 增幅器的次要射击也会消耗加成。
 
 </details>
 
 <details>
 
-<summary><strong>Ubri-Kaneph</strong></summary>
+<summary><strong>奥维</strong></summary>
 
-* **+60% Damage to Amps** +10% bonus for each Mod from a unique School
-
-</details>
-
-<details>
-
-<summary><strong>Vikla-Safor</strong></summary>
-
-* **+30% Amp Fire Rate** +30% Amp Ammo Efficiency
-* Useful if you miss your Raplak / Propa timing
-* This mod is optional
+* **+60% 增幅器暴击几率** 和 +10% 增幅器暴击伤害（每装备一张 Zenurik 学派的 mod）
+* 这个 mod 允许客机的 7 支架达到 100% 暴击几率（[**7 支架客机 bug**](https://forums.warframe.com/topic/1454706-amp-bug-for-clients/)）
 
 </details>
 
 <details>
 
-<summary><strong>Any Zenurik Mod</strong></summary>
+<summary><strong>乌卡</strong></summary>
 
-* Simply slot any Zenurik mod, synergizing with **Omn-Evi's +10% Critical Damage**
-* [**Esti Vel-Ikha**](https://wiki.warframe.com/w/Esti_Vel-Ikha) void Sling distance and radius
-
-</details>
-
-### **Avoid these mods**
-
-<details>
-
-<summary><mark style="color:$info;"><strong>Hayan-Dabor</strong></mark> <mark style="color:$danger;"><strong>(do not equip)</strong></mark></summary>
-
-* <mark style="color:$info;">+60% Amp Multishot</mark>
-* The multishot is a bait, because it’s unnecessary and, more importantly, it applies **Damage Attenuation**, so you will deal less damage
+* **+60% 增幅器伤害**，每个不同学派的 mod 额外 +10%
 
 </details>
 
 <details>
 
-<summary><mark style="color:$info;"><strong>Talsek-An</strong></mark></summary>
+<summary><strong>维萨</strong></summary>
 
-* <mark style="color:$info;">Gain knockdown immunity. When knockdown is blocked, enter Void Mode for 3s (cooldown 7.5s)</mark>
-* You gain some resistance to knockdowns, but unfortunately the mod is partly random / bugged sometimes you will still get bumped
+* **+30% 增幅器射速** +30% 增幅器弹药效率
+* 在你的 1 棱镜 / 7 支架 失误的时候非常有用。
+* 这个 mod 不是必须的
+
+</details>
+
+<details>
+
+<summary><strong>任何 Zenurik 学派 mod</strong></summary>
+
+* 装备一张任意 Zenurik 学派 mod，获得 **奥维 +10% 暴击伤害** 奖励
+* [**埃伊**](https://warframe.huijiwiki.com/wiki/%E5%9F%83%E4%BC%8A) 虚空冲刺距离和范围
+
+</details>
+
+### **避免装备的 MOD**
+
+<details>
+
+<summary>哈达 <mark style="color:$danger;"><strong>(绝对不要装备)</strong></mark></summary>
+
+* <mark style="color:$info;">+60% 增幅器多重射击</mark>
+* 多重射击很糟糕，因为它通常是多余的，而且更重要的是，它会导致**伤害衰减**，所以会使伤害变低。
+
+</details>
+
+<details>
+
+<summary><mark style="color:$info;"><strong>塔安</strong></mark></summary>
+
+* <mark style="color:$info;">获得击倒免疫。当击倒被格挡时，进入虚空模式 3 秒（冷却时间 7.5 秒）</mark>
+* 获得击倒免疫，但可惜的是，这个 mod 现在存在一些 bug，有时候你仍然会被击倒。
 
 </details>
