@@ -61,7 +61,7 @@ metaLinks:
 
 <summary><strong>待命舰员</strong></summary>
 
-* 在 wiki 上查看更详细的内容: [<mark style="color:$success;">**待命舰员**</mark>](https://warframe.huijiwiki.com/wiki/%E9%AD%85%E5%BD%B1#%E5%BE%85%E5%91%BD%E8%88%B0%E5%91%98)
+* 在这里查看更详细的内容: [<mark style="color:$success;">**待命舰员**</mark>](on-call-crew-occ.md)
 
 </details>
 
