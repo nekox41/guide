@@ -26,7 +26,7 @@
   * [增幅器 MOD - 狂勇](builds/amp-mods-thara.md)
   * [增幅器 & 指挥官赋能](builds/amp-and-operator-arcanes.md)
 * [Basics](basics/README.md)
-  * [Gearwheel Equipment](basics/gearwheel-equipment.md)
+  * [物品快捷栏](basics/gearwheel-equipment.md)
   * [Resource Farming](basics/resource-farming.md)
   * [Intrinsics - Railjack & Duviri](basics/intrinsics-railjack-and-duviri.md)
   * [On Call Crew - OCC](basics/on-call-crew-occ.md)
