@@ -24,7 +24,7 @@
   * [专精学派](builds/focus-school.md)
   * [增幅器组装](builds/amp-builds-modules.md)
   * [增幅器 MOD - 狂勇](builds/amp-mods-thara.md)
-  * [Amp & Operator Arcanes](builds/amp-and-operator-arcanes.md)
+  * [增幅器 & 指挥官赋能](builds/amp-and-operator-arcanes.md)
 * [Basics](basics/README.md)
   * [Gearwheel Equipment](basics/gearwheel-equipment.md)
   * [Resource Farming](basics/resource-farming.md)
