@@ -4,15 +4,15 @@ metaLinks:
     - https://app.gitbook.com/s/sc7MPTyiIfSwOeLlvpUg/basics/on-call-crew-occ
 ---
 
-# On Call Crew - OCC
+# 待命船员 - OCC（On-Call Crew）
 
-This feature is incredibly useful for killing Vomvalysts as they spawn under the Eidolon, freeing you up to focus on other tasks. To unlock the [**On-Call Crew**](https://warframe.fandom.com/wiki/On_Call_Crew), you need [**Command Rank 9 in the Railjack Intrinsic**](https://wiki.warframe.com/w/Railjack/Intrinsics/Command#On_Call).
+待命船员在击杀小夜灵时极为实用——它们会生成在夜灵脚下，有了船员你就能腾出手来专注其他任务。要解锁待命船员，你需要将九重天内源中的“命令”提升至9级。
 
-## Weapon
+## 武器
 
-There are many good options for arming your On-Call Crew. Ideally, use a beam weapon like the [**Atomos**](https://wiki.warframe.com/w/Atomos), Kuva Nukor, etc. However, even AoE weapons like the Ogris or Kuva Zarr can be used.
+待命船员的武器有很多优秀选择。理想情况下，使用光束武器，例如原子矿融炮、赤毒·努寇微波枪等；不过，像食人女魔或者赤毒·沙皇这类带有范围伤害的武器也是可以的。
 
-Below is a video example that walks you through the entire process, from hiring your On-Call Crew to deploying them in a mission. Don't forget, you'll also need to equip your On-Call Crew in your Gear Wheel
+下面的视频示例向你演示整个流程——从招募待命船员，到如何在任务中部署他们。不要忘记将待命船员装备到你的物品快捷栏。
 
 <details>
 
