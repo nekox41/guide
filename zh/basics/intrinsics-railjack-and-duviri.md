@@ -5,20 +5,20 @@ metaLinks:
       https://app.gitbook.com/s/sc7MPTyiIfSwOeLlvpUg/basics/intrinsics-railjack-and-duviri
 ---
 
-# Intrinsics - Railjack & Duviri
+# 内源之力 - 九重天 & 双衍王境
 
-All of this is optional, but if you're aiming for speed and efficiency, you should consider unlocking these intrinsics:
+所有这些都是可选的，但如果你追求速度和效率，你应该解锁这些：
 
-## Duviri Intrinsic:
+## 双衍王境 内源之力:
 
-* [**Combat Rank 9**](https://wiki.warframe.com/w/Drifter/Intrinsics/Combat), +25% Operator damage
+* [**战斗 等级 9**](https://warframe.huijiwiki.com/wiki/%E6%BC%82%E6%B3%8A%E8%80%85#%E6%88%98%E6%96%97-0), +25% 指挥官伤害
 
-## Railjack Intrinsics:
+## 九重天 内源之力:
 
-* [**Tactical Rank 8**](https://wiki.warframe.com/w/Railjack/Intrinsics/Tactical), reduced Archwing blink cooldown
-* [**Piloting Rank 8**](https://wiki.warframe.com/w/Railjack/Intrinsics/Piloting), +20% Archwing speed
-* [**Gunnery Rank 8**](https://wiki.warframe.com/w/Railjack/Intrinsics/Gunnery), +20% Range and Efficiency
-* [**Command Rank 9**](https://wiki.warframe.com/w/Railjack/Intrinsics/Command), Unlock On-Call Crew
+* [**战术 等级 8**](https://warframe.huijiwiki.com/wiki/%E5%86%85%E6%BA%90%E4%B9%8B%E5%8A%9B#%E6%88%98%E6%9C%AF-0), -25% Archwing 闪瞬冷却时间
+* [**操纵 等级 8**](https://warframe.huijiwiki.com/wiki/%E5%86%85%E6%BA%90%E4%B9%8B%E5%8A%9B#%E6%93%8D%E7%BA%B5-0), +20% Archwing 速度
+* [**枪炮 等级 8**](https://warframe.huijiwiki.com/wiki/%E5%86%85%E6%BA%90%E4%B9%8B%E5%8A%9B#%E6%9E%AA%E7%82%AE-0), +20% Archwing 技能范围和效率
+* [**命令 等级 9**](https://warframe.huijiwiki.com/wiki/%E5%86%85%E6%BA%90%E4%B9%8B%E5%8A%9B#%E5%91%BD%E4%BB%A4-0), 解锁待命船员
 
 ### **Screenshots:**
 

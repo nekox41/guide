@@ -28,7 +28,7 @@
 * [Basics](basics/README.md)
   * [物品快捷栏](basics/gearwheel-equipment.md)
   * [资源获取](basics/resource-farming.md)
-  * [Intrinsics - Railjack & Duviri](basics/intrinsics-railjack-and-duviri.md)
+  * [内源之力 - 九重天 & 双衍王境](basics/intrinsics-railjack-and-duviri.md)
   * [On Call Crew - OCC](basics/on-call-crew-occ.md)
   * [Raplak & Propa Timing](basics/raplak-and-propa-timing.md)
   * [Contamination Wave & Void Strike](basics/contamination-wave-and-void-strike.md)
