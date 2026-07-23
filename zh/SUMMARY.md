@@ -30,7 +30,7 @@
   * [资源获取](basics/resource-farming.md)
   * [内源之力 - 九重天 & 双衍王境](basics/intrinsics-railjack-and-duviri.md)
   * [待命船员 - OCC（On-Call Crew）](basics/on-call-crew-occ.md)
-  * [Raplak & Propa Timing](basics/raplak-and-propa-timing.md)
+  * [1 棱镜 & 7 支架 时机](basics/raplak-and-propa-timing.md)
   * [Contamination Wave & Void Strike](basics/contamination-wave-and-void-strike.md)
   * [Timing Contamination Wave](basics/timing-contamination-wave.md)
   * [How to Void Sling faster](basics/how-to-void-sling-faster.md)

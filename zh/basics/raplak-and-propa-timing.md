@@ -5,27 +5,18 @@ metaLinks:
       https://app.gitbook.com/s/sc7MPTyiIfSwOeLlvpUg/basics/raplak-and-propa-timing
 ---
 
-# Raplak & Propa Timing
+# 1 棱镜 & 7 支架 时机
 
-This is a crucial skill for Eidolon hunting, involving the prediction of when the Eidolon's shield will become vulnerable to take it down immediately. Fortunately, there’s a simulation tool available to help you practice and improve your timing for your next hunt (links below).
+这是夜灵狩猎中的一项关键技巧，在于预判夜灵的护盾何时会解除无敌状态，从而在解除的瞬间将其打破。幸运的是，现在有一个模拟工具可以帮助你练习并提升对于时机的把控，为你的狩猎做好准备（链接见下方）。
 
-You can control two parameters: <mark style="color:yellow;">**Ping**</mark> and <mark style="color:orange;">**Refresh Rate**</mark>.
+你可以控制两个参数：<mark style="color:yellow;">Ping</mark> 和 <mark style="color:red;">帧率</mark>
 
-* <mark style="color:yellow;">Ping</mark> represents the in-game ping with your host if you are a client, or 0 ms if you are the host.
-* <mark style="color:orange;">Refresh Rate</mark> depends on your host's average FPS during a hunt.
+* <mark style="color:yellow;">Ping</mark> 代表你在游戏中与主机的网络延迟，如果你是客机，那么应该设置为你和主机的网络延迟。如果你是主机，设置为0.
+* <mark style="color:red;">帧率</mark>取决于你的电脑配置。
 
 {% hint style="warning" %}
-<mark style="color:$danger;">**Important:**</mark> While you can aim for **0 ms** shields, the ideal scenario is to understand your range and adjust accordingly. For instance, if you aim for 0 ms but experience a range from -50 ms<sup>†</sup> to 50 ms, you should <kbd>aim for 50 ms</kbd> instead. This adjustment allows you to hit the shields within the 0 to 100 ms range.
+<mark style="color:$danger;">**重要:**</mark> 虽然你可以把目标设置为 **0 ms** 破盾，但理想的做法是你了解自己的波动范围并进行调整。例如，你目标是 0 ms 但实际波动范围在 -50 ms 到 +50 ms 之间，那你应该把目标设为 +50 ms。这样的话，你的实际命中取件就会落在 0 到 100 ms之间，从而保证破盾的稳定性。
 {% endhint %}
-
-<details>
-
-<summary>† negative limbs</summary>
-
-For this guide, we'll assume that negative shield times (-X ms) are undesirable, as they result in 0 damage to the Eidolon's shields and cause significant time loss.\
-This is true for FPS values of 120 or lower. At higher FPS values, negative shield times can appear possible, which isn't entirely accurate since tools like Idalon compare your shield times to an arbitrary value, giving the impression that negative times are achievable.
-
-</details>
 
 #### Links:
 
