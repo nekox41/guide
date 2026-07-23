@@ -31,7 +31,7 @@
   * [内源之力 - 九重天 & 双衍王境](basics/intrinsics-railjack-and-duviri.md)
   * [待命船员 - OCC（On-Call Crew）](basics/on-call-crew-occ.md)
   * [1 棱镜 & 7 支架 时机](basics/raplak-and-propa-timing.md)
-  * [Contamination Wave & Void Strike](basics/contamination-wave-and-void-strike.md)
+  * [污染震波 & 虚空重击](basics/contamination-wave-and-void-strike.md)
   * [Timing Contamination Wave](basics/timing-contamination-wave.md)
   * [How to Void Sling faster](basics/how-to-void-sling-faster.md)
   * [How to Break Shield + Limb](basics/how-to-break-shield-+-limb.md)

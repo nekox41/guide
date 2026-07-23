@@ -5,24 +5,24 @@ metaLinks:
       https://app.gitbook.com/s/sc7MPTyiIfSwOeLlvpUg/basics/contamination-wave-and-void-strike
 ---
 
-# Contamination Wave & Void Strike
+# 污染震波 & 虚空重击
 
-When it comes to your Operator's abilities, it's important to understand how they work to maximize their effectiveness:
+关于你的指挥官的技能，了解他们的机制对于如何正确的使用它们很重要：
 
-* **First Ability** **-** [**Void Strike**](https://wiki.warframe.com/w/Focus/Madurai#Void_Strike) **(**<mark style="color:orange;">**VS**</mark>**)**<mark style="color:orange;">**:**</mark> Provides a 10% damage increase for every percent of energy used, lasting 8 seconds with a 40 second cooldown. You can achieve up to a 1000% damage buff when your Operator's energy is at 100%.
-* **Second Ability** **-** [**Contamination Wave**](https://wiki.warframe.com/w/Focus/Madurai#Contamination_Wave) **(**<mark style="color:yellow;">**CW**</mark>**)**<mark style="color:yellow;">**:**</mark> Launches a wave that debuffs enemies, making them 50% more vulnerable to Operator damage. This effect lasts 20 seconds and is not refreshable.
+* **1 技能 -** [**虚空重击**](https://warframe.huijiwiki.com/wiki/%E4%B8%93%E7%B2%BE_3.0#Madurai-1)：每消耗 1% 的指挥官能量，即可提供 10% 伤害加成，效果持续 8 秒，冷却时间为 40 秒。当你的指挥官能量为 100% 时，最高可以获得 1000% 的伤害增益。
+* **2 技能 -** [**污染震波**](https://warframe.huijiwiki.com/wiki/%E4%B8%93%E7%B2%BE_3.0#Madurai-1)：发射一道冲击波，对命中的敌人施加 Debuff，使其受到的指挥官伤害提高 50%。该效果持续 20 秒，在持续期间内使用技能再次命中也无法刷新持续。
 
-<mark style="color:orange;">VS</mark> is especially reserved for Water Limbs, as that's when the Eidolon's shields are tougher. However, with proper timing, you can potentially use <mark style="color:orange;">VS</mark> multiple times during each Eidolon fight.
+<mark style="color:red;">虚空重击</mark>通常用于出水盾，因为此时夜灵的护盾量更多。不过如果时机把握得当，你可以在每只夜灵的战斗中使用多次。
 
-<mark style="color:yellow;">CW</mark> is a bit more complicated to time properly, as you must wait for the first <mark style="color:yellow;">CW</mark> debuff to expire before you can apply it again.
+<mark style="color:yellow;">污染震波</mark>的施放时机比较复杂，因为你必须等待上一次 Debuff 结束后，才能再次施加。
 
 {% hint style="info" %}
-<mark style="color:$danger;">**Important:**</mark> For fast limb break times, where the interval between limbs is close to **17.2 seconds**, you need to be mindful when casting Contamination Wave. Otherwise, some limbs might not have the CW debuff active despite your best efforts.
+<mark style="color:$danger;">**重要:**</mark> 在快速破关的情况下，如果两次击破关节的时间间隔接近 **17.2 秒**，那么施放污染震波的时机需要格外谨慎。否则，有些关节可能无法享受到 debuff.
 {% endhint %}
 
-You can manage <mark style="color:yellow;">CW</mark> in several ways. For example, in a four-limb sequence:
+你可以控制<mark style="color:yellow;">污染震波</mark>的施放节奏。例如，下面这个 4 关节的循环：
 
-* First Limb: Cast <mark style="color:yellow;">CW</mark> early, well before the shields become vulnerable.
-* Second Limb: Cast <mark style="color:yellow;">CW</mark> late, as close as possible to when the shields become vulnerable.
-* Third Limb: Skip <mark style="color:yellow;">CW</mark> and use <mark style="color:orange;">VS</mark> instead.
-* Fourth Limb: Repeat from step 1 after using <mark style="color:orange;">VS</mark>.
+* 第一个关节：提前施放<mark style="color:yellow;">污染震波</mark>，距离护盾解除无敌的时间远一点。
+* 第二个关节：延后施放<mark style="color:yellow;">污染震波</mark>，尽量接近护盾解除无敌的时机。
+* 第三个关节：跳过施放<mark style="color:yellow;">污染震波</mark>，使用<mark style="color:orange;">虚空重击</mark>。
+* 第四个关节：开始从第一个关节的流程重复。
