@@ -1,11 +1,11 @@
-# To-do
+# 待办事项
 
-* Known bugs
-* Mele-less transfer out
-* Vaulted tech
-* Zenith disk info
-* Eidolon rewards - focus & arcanes
-* Semi-cloak
-* Timing raplak ez
-* Unstuck explainer
+* 已知 Bug。
+* 不携带近战时退出传识的操作。
+* 旧版技巧（Vaulted tech【待确认：指已失效还是不再主流的技巧】）。
+* 天穹之顶圆盘说明。
+* 夜灵奖励：专精与赋能。
+* 半透明隐身效果。
+* 简化 1 棱镜时机判断。
+* /unstuck 指令说明。
 

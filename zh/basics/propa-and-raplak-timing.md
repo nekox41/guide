@@ -1,26 +1,26 @@
-# Propa & Raplak Timing
+# 7 支架 & 1 棱镜的时机
 
-This is a crucial skill for Eidolon hunting, involving the prediction of when the Eidolon's shield will become vulnerable to take it down immediately. Fortunately, there’s a simulation tool available to help you practice and improve your timing for your next hunt (links below).
+预判夜灵护盾解除无敌的时刻，并立即将其击破，是夜灵狩猎的关键技巧。你可以使用下方链接中的模拟工具练习，为下一次狩猎改善时机把握。
 
-You can control two parameters: <mark style="color:yellow;">**Ping**</mark> and <mark style="color:orange;">**Refresh Rate**</mark>.
+你可以调整两个参数：<mark style="color:yellow;">**Ping**</mark> 和<mark style="color:orange;">**刷新率**</mark>。
 
-* <mark style="color:yellow;">Ping</mark> represents the in-game ping with your host if you are a client, or 0 ms if you are the host.
-* <mark style="color:orange;">Refresh Rate</mark> depends on your host's average FPS during a hunt.
+* <mark style="color:yellow;">Ping</mark> 代表客机与主机之间的游戏内网络延迟；如果你是主机，则设为 0 ms。
+* <mark style="color:orange;">刷新率</mark>取决于主机狩猎时的平均 FPS。
 
 {% hint style="warning" %}
-<mark style="color:$danger;">**Important:**</mark> While you can aim for **0 ms** shields, the ideal scenario is to understand your range and adjust accordingly. For instance, if you aim for 0 ms but experience a range from -50 ms<sup>†</sup> to 50 ms, you should <kbd>aim for 50 ms</kbd> instead. This adjustment allows you to hit the shields within the 0 to 100 ms range.
+<mark style="color:$danger;">**重要：**</mark>虽然你可以追求 **0 ms** 破盾，但更理想的做法是了解自己的波动范围并相应调整。例如，以 0 ms 为目标时，实际波动为 -50 ms<sup>†</sup>～50 ms，那么应改为<kbd>以 50 ms 为目标</kbd>，使实际命中落在 0～100 ms 之间。
 {% endhint %}
 
 <details>
 
-<summary>† (negative limbs)</summary>
+<summary>† 负时间记录</summary>
 
-For this guide, we'll assume that negative shield times (-X ms) are undesirable, as they result in 0 damage to the Eidolon's shields and cause significant time loss.\
-This is true for FPS values of 120 or lower. At higher FPS values, negative shield times can appear possible, which isn't entirely accurate since tools like Idalon compare your shield times to an arbitrary value, giving the impression that negative times are achievable.
+本指南默认负破盾时间（-X ms）是不理想的：它通常表示射击过早，未对夜灵护盾造成伤害，反而损失大量时间。\
+这适用于 FPS 不高于 120 的情况。在更高 FPS 下，日志可能显示负破盾时间，但并不代表真正实现了负时间破盾；Idalon 等工具会以某个设定的基准值比较你的破盾时间，因此可能产生这种现象。
 
 </details>
 
-### Links:
+### 链接：
 
 [https://idalon.com/games/raplak](https://idalon.com/games/raplak)[\
 https://idalon.com/games/propa](https://idalon.com/games/propa)[\

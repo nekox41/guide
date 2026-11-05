@@ -5,41 +5,41 @@ metaLinks:
       https://app.gitbook.com/s/sc7MPTyiIfSwOeLlvpUg/basics/timing-contamination-wave
 ---
 
-# Timing Contamination Wave
+# 污染震波的施放时机
 
-<mark style="color:yellow;">CW</mark> creates a debuff that lasts 20 seconds but <mark style="color:$danger;">**cannot be refreshed**</mark>. To ensure the debuff is active on each limb at the moment its shield breaks, you need to carefully control when you apply it
+<mark style="color:yellow;">污染震波（CW）</mark>会施加持续 20 秒、但<mark style="color:$danger;">**无法刷新持续时间**</mark>的减益。要让每个关节破盾时都享受到减益，必须仔细控制施放时机。
 
-## **Key Concepts**
+## **关键概念**
 
-* **Dead Zone:** the period during which the debuff can be reapplied
-* **Shield Vulnerability Windows**: occur approximately every **17.2 seconds**
-* **Goal:** keep the dead zone away from these shield vulnerability windows
+* **空档期：**减益结束、可以重新施加减益的时间段【待确认：原文 Dead Zone 的准确含义】。
+* **护盾解除无敌窗口：**约每 **17.2 秒**出现一次。
+* **目标：**避免空档期与护盾解除无敌窗口重叠。
 
-## Early-Late CW Method
+## 污染震波早放／晚放法
 
-Using the Eidolon’s Scream as a reference, limb management can be done as follows:
+以夜灵吼叫为参照，按以下方式处理各个关节：
 
-* **1st Limb** (Water Limb): use <mark style="color:orange;">**Void Strike only**</mark>
-* **2nd Limb**: cast <mark style="color:yellow;">**CW early**</mark>, well before the Eidolon starts screaming
-* **3rd Limb**: cast <mark style="color:yellow;">**CW late**</mark>, right in the middle of the Eidolon’s scream
-* **4th Limb**: cast <mark style="color:orange;">**Void Strike**</mark> as soon as the First Wave from the Eidolon’s scream hits you
+* **第 1 个关节**（出水关节）：<mark style="color:orange;">**只使用虚空重击**</mark>。
+* **第 2 个关节**：<mark style="color:yellow;">**提前施放污染震波**</mark>，明显早于夜灵开始吼叫的时刻。
+* **第 3 个关节**：<mark style="color:yellow;">**延后施放污染震波**</mark>，在夜灵吼叫中途施放。
+* **第 4 个关节**：夜灵吼叫的第一道磁力波命中你时，立即施放<mark style="color:orange;">**虚空重击**</mark>。
 
-If the Eidolon has 6 limbs:
+如果夜灵有 6 个关节：
 
-* **5th Limb**: cast <mark style="color:yellow;">**CW whenever**</mark> (though ideally early)
-* **6th Limb**:
-  * **Option A**: Fire 1 Propa, then cast <mark style="color:orange;">**Void Strike**</mark>, and finally fire Raplak
-  * **Option B**: do 5th and 6th the same way as the 2nd and 3rd limb (<mark style="color:yellow;">**CW early**</mark> / <mark style="color:yellow;">**CW late**</mark>)
+* **第 5 个关节**：<mark style="color:yellow;">**任意时机施放污染震波**</mark>，但最好提前施放。
+* **第 6 个关节**：
+  * **方案 A**：发射一枚 7 支架弹丸，然后施放<mark style="color:orange;">**虚空重击**</mark>，最后使用 1 棱镜射击。
+  * **方案 B**：第 5、6 个关节分别采用第 2、3 个关节的做法（<mark style="color:yellow;">**提前施放**</mark>／<mark style="color:yellow;">**延后施放污染震波**</mark>）。
 
-## **CW After Propa Method**
+## **发射 7 支架后施放污染震波**
 
-This is another popular method to guarantee CW is active on every limb
+这是另一种常用方法，可以确保每个关节都能享受到污染震波。
 
-* How its done: <mark style="color:$warning;">**only use CW after firing Propa**</mark>, unless you are facing away from the Eidolon as to avoid applying the debuff when you don't mean to
-* You may notice that you don't necessarily need to cast <mark style="color:yellow;">**CW**</mark> after propa but rather just **always at the same moment in the Eidolon's animation**, so you can come up with your own reference
+* 操作方式：<mark style="color:$warning;">**仅在发射 7 支架后施放污染震波**</mark>；只有背对夜灵、不会意外施加减益时，才可在其他时机施放。
+* 实际上，你不一定非要在发射 7 支架后施放<mark style="color:yellow;">**污染震波**</mark>；关键是**每次都在夜灵动作的同一时刻施放**，因此可以自行寻找稳定的参照。
 
 {% hint style="danger" %}
-Beware of this [<mark style="color:$danger;">**bug**</mark>](https://forums.warframe.com/topic/1451619-propa-eternal-onslaught-not-working-as-expected/#comment-13286760), you will have to trigger [**Eternal Onslaught**](https://wiki.warframe.com/w/Eternal_Onslaught) before firing Propa and then regain enough energy to cast CW
+注意这个 [<mark style="color:$danger;">**Bug**</mark>](https://forums.warframe.com/topic/1451619-propa-eternal-onslaught-not-working-as-expected/#comment-13286760)：你需要在发射 7 支架前触发[**永恒猛攻**](https://wiki.warframe.com/w/Eternal_Onslaught)，再恢复足够的能量施放污染震波。
 {% endhint %}
 
 <figure><img src="https://1960884447-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FMnWMWMKLrFw5Len33GHR%2Fuploads%2Fqgrdxw5YDP7BCDFVwSUa%2FCW%20after%20propa.png?alt=media&#x26;token=c7f4039f-20f2-498a-9fb1-9f74901402fd" alt=""><figcaption></figcaption></figure>

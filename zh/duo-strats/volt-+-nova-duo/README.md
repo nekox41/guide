@@ -4,5 +4,5 @@ metaLinks:
     - https://app.gitbook.com/s/sc7MPTyiIfSwOeLlvpUg/duo-strats/volt-+-nova-duo
 ---
 
-# Volt + Nova Duo
+# Volt + Nova 双人
 

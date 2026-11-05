@@ -74,7 +74,7 @@ metaLinks:
 <summary><strong>任何 Zenurik 学派 mod</strong></summary>
 
 * 装备一张任意 Zenurik 学派 mod，获得 **奥维 +10% 暴击伤害** 奖励
-* [**埃伊**](https://warframe.huijiwiki.com/wiki/%E5%9F%83%E4%BC%8A) 虚空冲刺距离和范围
+* [**埃伊**](https://warframe.huijiwiki.com/wiki/%E5%9F%83%E4%BC%8A) 虚空弹射距离和范围
 
 </details>
 

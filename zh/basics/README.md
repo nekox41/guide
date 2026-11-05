@@ -5,5 +5,5 @@ metaLinks:
     - https://app.gitbook.com/s/sc7MPTyiIfSwOeLlvpUg/basics
 ---
 
-# Basics
+# 基础知识
 

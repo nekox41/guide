@@ -5,35 +5,35 @@ metaLinks:
       https://app.gitbook.com/s/sc7MPTyiIfSwOeLlvpUg/duo-strats/volt-+-nova-duo/garry-volt-setup
 ---
 
-# Garry Volt Setup
+# 巨力使出水准备：Volt
 
-## **Garry Water Preparation – Volt**
+## **巨力使出水准备：Volt**
 
-#### Volt must:
+#### Volt 需要：
 
-1. Go to [<mark style="color:$success;">**Loc-Pin**</mark>](loc-pins.md) **CR** and place the **Med-Tower** ([<mark style="color:$success;">**see placement**</mark>](../../advanced/med-tower-midair.md))
-2. Go to **Long** and place his shields between 1:45 – 1:48
-3. Go to **CL** and wait for Nova’s portal
+1. 前往**右近点（CR）**的[<mark style="color:$success;">**位置-图针**</mark>](loc-pins.md)，放置**治愈之塔**（[<mark style="color:$success;">**查看放置方式**</mark>](../../advanced/med-tower-midair.md)）。
+2. 前往**远点（Long）**，在 1:45～1:48 放置电盾。
+3. 前往**左近点（CL）**，等待 Nova 的虫洞。
 
-Then:
+然后：
 
-* Return to Terry, pick up the Lures Nova placed on hold
-* Perform the capshot
+* 返回兆力使处，带走 Nova 设置为原地待命的气球。
+* 完成收尾射击。
 
-Back to the Shrine
+返回祭坛：
 
-* Place shields in front of the portals
+* 在虫洞前放置电盾。
 
 {% hint style="warning" %}
-Step back to prevent Lures from spawning inside portals or in the water.
+向后退一些，避免气球生成在虫洞内或水中。
 {% endhint %}
 
-Once the Lures explode:
+气球爆炸后：
 
-* Retrieve the loot with Itzal 3
-* Insert the Shard
-* Move to the **Volt Water** [<mark style="color:$success;">**Loc-Pin**</mark>](loc-pins.md) and break Garry limbs
+* 使用刺影 3 技能拾取掉落。
+* 放入碎片。
+* 前往 **Volt 出水**[<mark style="color:$success;">**位置-图针**</mark>](loc-pins.md)，击破巨力使的出水关节。
 
-Example Garry Water Preparation [**Link**](https://youtu.be/Kd27-2vVink)
+巨力使出水准备示例：[**链接**](https://youtu.be/Kd27-2vVink)
 
-Example Water Limb Break: [**Link**](https://www.youtube.com/watch?v=LsE50q9G2wA)
+出水关节击破示例：[**链接**](https://www.youtube.com/watch?v=LsE50q9G2wA)

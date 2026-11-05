@@ -5,43 +5,43 @@ metaLinks:
       https://app.gitbook.com/s/sc7MPTyiIfSwOeLlvpUg/solo-strats/volt-solo/walkthrough
 ---
 
-# Walkthrough
+# 实战流程
 
-This is just one example of a working gameplay.\
-You don’t have to follow it exactly.\
-QC , lure management and water preparation can be adjusted
+这里只展示一种可行的打法。\
+你不必完全照搬。\
+首充、气球管理和出水准备都可以自行调整。
 
-## Entering the Plains
+## 进入平原
 
-* Enter the Plains
-* QC in the [link](https://youtu.be/Xce4AZBNfXQ)
+* 进入平原。
+* 按[链接](https://youtu.be/Xce4AZBNfXQ)中的方式进行首充。
 
-## Terry (Teralyst) – Fight
+## 兆力使（Terry）：战斗
 
-#### **First Limb**
+#### **第一个关节**
 
-* Do Terry’s first limb
-* Immediately go pick up 2 lures
+* 击破兆力使的第一个关节。
+* 立即再去获取两个气球。
 
-If you are too slow:
+如果来不及：
 
-* Take 1 lure first
-* Pick up the second one after the next limb
+* 先获取一个气球。
+* 击破下一个关节后，再获取第二个。
 
-## Terry Down – Setup
+## 兆力使倒地：准备工作
 
-Before finishing Terry
+完成兆力使收尾之前：
 
-* Make sure your lures are set to Hold Position
-* Place your [<mark style="color:$success;">**crewmate**</mark>](../../basics/on-call-crew-occ.md)
+* 确保气球设为原地待命。
+* 部署[<mark style="color:$success;">**待命船员**</mark>](../../basics/on-call-crew-occ.md)。
 
-## Garry Water Preparation
+## 巨力使出水准备
 
-After the Terry down
+兆力使倒地后：
 
-* Take at least 3 lures.
+* 至少带上 3 个气球。
 
-Then:
+然后：
 
-* Perform the Terry capshot
-* Return to the shrine
+* 完成兆力使的收尾射击。
+* 返回祭坛。

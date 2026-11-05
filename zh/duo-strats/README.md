@@ -5,5 +5,5 @@ metaLinks:
     - https://app.gitbook.com/s/sc7MPTyiIfSwOeLlvpUg/duo-strats
 ---
 
-# Duo Strats
+# 双人攻略
 

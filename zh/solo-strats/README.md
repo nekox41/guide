@@ -5,5 +5,5 @@ metaLinks:
     - https://app.gitbook.com/s/sc7MPTyiIfSwOeLlvpUg/solo-strats
 ---
 
-# Solo Strats
+# 单人攻略
 

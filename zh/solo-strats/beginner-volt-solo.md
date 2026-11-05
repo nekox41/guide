@@ -5,12 +5,12 @@ metaLinks:
       https://app.gitbook.com/s/sc7MPTyiIfSwOeLlvpUg/solo-strats/beginner-volt-solo
 ---
 
-# Beginner Volt Solo
+# Volt 单人入门
 
-There will be a more detailed post, for the meantime you can watch the following PoV:
+之后会补充更详细的说明，目前可以先观看以下实战视角：
 
 {% embed url="https://www.youtube.com/watch?v=QNjLdOaFqHc" %}
 
-Builds are the same as in the [<mark style="color:$success;">**Beginner Builds**</mark>](../builds/beginner-builds/) section (all rivenless)
+配装与[<mark style="color:$success;">**入门配装**</mark>](../builds/beginner-builds/)部分相同，均不需要紫卡。
 
-The showcased Amp build is the [<mark style="color:$success;">**1-2-3**</mark>](../builds/amp-builds-modules.md) (if you have it, [<mark style="color:$success;">**1-2-7**</mark>](../builds/amp-builds-modules.md) is simply better)
+视频使用[<mark style="color:$success;">**1-2-3**</mark>](../builds/amp-builds-modules.md)增幅器；如果已经解锁，[<mark style="color:$success;">**1-2-7**</mark>](../builds/amp-builds-modules.md)会更好。

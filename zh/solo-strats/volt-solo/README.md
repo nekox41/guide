@@ -4,5 +4,5 @@ metaLinks:
     - https://app.gitbook.com/s/sc7MPTyiIfSwOeLlvpUg/solo-strats/volt-solo
 ---
 
-# Volt Solo
+# Volt 单人
 

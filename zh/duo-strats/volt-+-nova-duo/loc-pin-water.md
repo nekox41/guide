@@ -1,14 +1,14 @@
-# Loc-pin Water
+# 出水位置-图针
 
-Loc-pins will help you position yourself correctly; they’re a great time-saver and quality-of-life (QOL) improvement.
+位置-图针可以帮助你准确站位，节省时间并改善操作体验。
 
-Loc-Pins can be researched in a Clan Dojo’s Tenno Research Lab
+位置-图针可在氏族道场的 Tenno 实验室研究。
 
 #### Nova
 
 <details>
 
-<summary>CL</summary>
+<summary>左近点（CL）</summary>
 
 <figure><img src="https://1960884447-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FMnWMWMKLrFw5Len33GHR%2Fuploads%2FIskVtLMz8WbHOwuQyR5J%2Funknown.png?alt=media&#x26;token=68290703-9e49-4aef-900c-a2e326394859" alt=""><figcaption></figcaption></figure>
 
@@ -18,7 +18,7 @@ Loc-Pins can be researched in a Clan Dojo’s Tenno Research Lab
 
 <details>
 
-<summary>CR</summary>
+<summary>右近点（CR）</summary>
 
 <figure><img src="https://1960884447-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FMnWMWMKLrFw5Len33GHR%2Fuploads%2FcBUe7Y5xi1I35QiVr2T0%2Funknown.png?alt=media&#x26;token=2ebe8f27-a41e-40f8-a957-1d0ce89c0fe0" alt=""><figcaption></figcaption></figure>
 
@@ -28,7 +28,7 @@ Loc-Pins can be researched in a Clan Dojo’s Tenno Research Lab
 
 <details>
 
-<summary>Mid</summary>
+<summary>中点（Mid）</summary>
 
 <figure><img src="https://1960884447-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FMnWMWMKLrFw5Len33GHR%2Fuploads%2FSqxqJwlTeJJJcEFupEbf%2Funknown.png?alt=media&#x26;token=2e9f2b46-740a-457e-ba5e-5edbf1f24805" alt=""><figcaption></figcaption></figure>
 
@@ -38,7 +38,7 @@ Loc-Pins can be researched in a Clan Dojo’s Tenno Research Lab
 
 <details>
 
-<summary>Long</summary>
+<summary>远点（Long）</summary>
 
 <figure><img src="https://1960884447-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FMnWMWMKLrFw5Len33GHR%2Fuploads%2FKbeJj5m1FWFhpumxtH3m%2Funknown.png?alt=media&#x26;token=b0a0993b-94a6-4615-8343-9ce1816304d3" alt=""><figcaption></figcaption></figure>
 
@@ -50,7 +50,7 @@ Loc-Pins can be researched in a Clan Dojo’s Tenno Research Lab
 
 <details>
 
-<summary>Volt Water Zenith POV</summary>
+<summary>Volt 出水时使用天穹之顶的视角</summary>
 
 <figure><img src="https://1960884447-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FMnWMWMKLrFw5Len33GHR%2Fuploads%2FQQU9Xcxtw3YwBQk44KAL%2Funknown.png?alt=media&#x26;token=331762e9-583a-4b1f-9d05-9f2f927b9511" alt=""><figcaption></figcaption></figure>
 

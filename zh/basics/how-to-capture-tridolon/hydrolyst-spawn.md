@@ -1,6 +1,7 @@
-# Hydrolyst Spawn
+# 召唤水力使
 
-To spawn the Hydrolyst , you must collect a [**Radiant Eidolon Shard**](https://wiki.warframe.com/w/Radiant_Eidolon_Shard), which is awarded after successfully capturing a Gantulyst.\
-After collecting it, bring the shard to the Shrine as shown earlier and deposit it there to summon the Hydrolyst.
+成功捕获巨力使后，拾取掉落的[**光辉的夜灵碎片**](https://wiki.warframe.com/w/Radiant_Eidolon_Shard)，即可用于召唤水力使。
+\
+将碎片带到前文所示的祭坛，放入碎片即可召唤水力使。
 
 ![](<../../.gitbook/assets/image (44)>)

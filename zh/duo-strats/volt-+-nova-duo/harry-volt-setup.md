@@ -5,26 +5,26 @@ metaLinks:
       https://app.gitbook.com/s/sc7MPTyiIfSwOeLlvpUg/duo-strats/volt-+-nova-duo/harry-volt-setup
 ---
 
-# Harry Volt Setup
+# 水力使出水准备：Volt
 
-## Harry Water Preparation – Volt
+## 水力使出水准备：Volt
 
-#### Volt must:
+#### Volt 需要：
 
-* Collect Vomvalysts to charge his Lures
-* Replace 2 shields at LONG at 4:35
-* Return to Garry and perform the Capshot.
-* Return to the Shrine and place shields in front of portals
+* 收集小夜灵，为气球充能。
+* 在 4:35 重新放置远点的两面电盾。
+* 返回巨力使处并完成收尾射击。
+* 返回祭坛，在虫洞前放置电盾。
 
 {% hint style="warning" %}
-Always step back to prevent Lures spawning in portals/water
+始终记得后退一些，避免气球生成在虫洞内或水中。
 {% endhint %}
 
-* Retrieve loot (Itzal 3)
-* Place the shard
-* Go to **Volt Water** [<mark style="color:$success;">**Loc-Pin**</mark>](loc-pins.md) and break Harry’s limbs
+* 拾取掉落（刺影 3 技能）。
+* 放入碎片。
+* 前往 **Volt 出水**[<mark style="color:$success;">**位置-图针**</mark>](loc-pins.md)，击破水力使的出水关节。
 
-Example Water Preparation [**Link**](https://youtu.be/dKt2os4gTGE)
+出水准备示例：[**链接**](https://youtu.be/dKt2os4gTGE)
 
-Example Water Limb Break: [**Link**](https://www.youtube.com/watch?v=LsE50q9G2wA)
+出水关节击破示例：[**链接**](https://www.youtube.com/watch?v=LsE50q9G2wA)
 

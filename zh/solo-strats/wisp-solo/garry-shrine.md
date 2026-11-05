@@ -5,29 +5,29 @@ metaLinks:
       https://app.gitbook.com/s/sc7MPTyiIfSwOeLlvpUg/solo-strats/wisp-solo/garry-shrine
 ---
 
-# Garry Shrine
+# 巨力使祭坛阶段
 
-## **At the Shrine – VS Timing**
+## **祭坛阶段：虚空重击时机**
 
-At the same instant the loot lure pops:
+掉落气球爆炸的瞬间：
 
-* Go Operator
-* Use the [**Power Transfer**](https://wiki.warframe.com/w/Focus/Madurai#Power_Transfer) duration as a reference to time your **VS**
+* 切换到指挥官。
+* 使用[**能量转换**](https://wiki.warframe.com/w/Focus/Madurai#Power_Transfer)的剩余时间，判断**虚空重击**的施放时机。【待确认：能量转换对应 Power Transfer，专精节点中文名待核对】
 
-## **Timing Pre-VS**
+## **提前施放虚空重击的时机**
 
-You have to cast **VS** **7 seconds** after the loot lure explodes
+掉落气球爆炸 **7 秒**后，施放**虚空重击**。
 
-If you are constant enough then:
+如果操作足够稳定：
 
 {% columns %}
 {% column width="75%" %}
-\* Wait until **13s left** on Power Transfer
+* 等待能量转换**剩余 13 秒**。
 
-* Activate **Void Strike**, switch back to your frame
-* Insert the **Shard**
-* Teleport to CL using Breach Surge
-* What follows depends on the Garry spawn
+* 施放**虚空重击**，切回战甲。
+* 放入**碎片**。
+* 使用裂隙涌流传送到左近点。
+* 之后的操作取决于巨力使的出水点位。
 {% endcolumn %}
 
 {% column width="25%" %}
@@ -36,20 +36,20 @@ If you are constant enough then:
 {% endcolumns %}
 
 {% hint style="info" %}
-Alternatively, you can time those 7 seconds by different means, like using a clock or a stopwatch
+也可以用其他方式计算这 7 秒，例如时钟或秒表。
 {% endhint %}
 
-See Fenomeral’s examples : [**Link**](https://youtu.be/tb0VvhpI54Q?t=1645)
+查看 Fenomeral 的示例：[**链接**](https://youtu.be/tb0VvhpI54Q?t=1645)
 
-## Garry Fight
+## 巨力使战斗
 
-* Use [<mark style="color:$success;">**Mandonel**</mark>](../../advanced/mandonel-voltless.md) to prevent Raplak Yellow Crits
-* Use **Eclipse DR** (Night mode) if needed for survivability
-  * Double tapping **Wil-O-Wisp** makes you invulnerable for 3s
+* 使用[<mark style="color:$success;">**辐光弩炮**</mark>](../../advanced/mandonel-voltless.md)，避免 1 棱镜出现黄色暴击。
+* 如有生存压力，使用**黯然失色的减伤模式**（夜晚模式）。
+  * 连按两次**幻影之巫**，可获得 3 秒无敌。
 
-## After the Down
+## 倒地之后
 
-* Use the undervomvs to charge your lures
-* Fetch 2 more lures
-* Perform the Garry capshot (Eclipse Day mode)
-* Return to the shrine
+* 利用夜灵脚下刷新的小夜灵为气球充能。
+* 再获取两个气球。
+* 完成巨力使的收尾射击（黯然失色白昼模式）。
+* 返回祭坛。

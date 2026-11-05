@@ -4,52 +4,52 @@ metaLinks:
     - https://app.gitbook.com/s/sc7MPTyiIfSwOeLlvpUg/basics/eidolon-phases
 ---
 
-# Eidolon Phases
+# 夜灵的战斗阶段
 
-Eidolon fights are very repetitive in nature, especially at the top level. They consist of the following phases: **Spawn, Water, Limbs, Healing, Capture, and Looting**.
+夜灵战斗的流程重复性很高，尤其是在高水平狩猎中。主要分为以下阶段：**刷新、出水、关节、恢复、捕获和拾取掉落**。
 
-## Spawn <a href="#spawn" id="spawn"></a>
+## 刷新 <a href="#spawn" id="spawn"></a>
 
-* The Teralyst spawns randomly around various lakes on the Plains of Eidolon.
-* The Gantulyst and Hydrolyst spawn after being summoned at the Shrine, appearing at one of four predetermined [<mark style="color:$success;">**Spawn Locations**</mark>](spawn-locations.md) at the narrow end of the **Gara Toht Lake**:
-  * Close Right (CR), Close Left (CL), Middle (Mid), and Long (Far).
+* 兆力使会随机刷新在夜灵平原的不同湖泊附近。
+* 巨力使和水力使需要在祭坛召唤，随后出现在**加拉托特湖**较窄一端的四个固定[<mark style="color:$success;">**出水点位**</mark>](spawn-locations.md)之一：
+  * 右近点（CR）、左近点（CL）、中点（Mid）和远点（Long / Far）。
 
-## Water <a href="#water" id="water"></a>
+## 出水 <a href="#water" id="water"></a>
 
-* "Waters," also known as Water Limbs or Water Shields, refers to the phase where the Eidolon emerges from the water.
-* For the Teralyst, you must wait approximately 31.2 s (or 27.4s for the first Teralyst of the night) after loading before you can take down its shields and first limb.
-* However, for the Gantulyst and Hydrolyst, you are free to take down the shields and first limb as soon as they spawn.
+* “出水”（Waters），也称出水关节或出水盾，指夜灵从水中出现的阶段。
+* 对兆力使而言，加载后需要等待约 31.2 秒（当晚第一只为 27.4 秒），才能击破护盾和第一个关节。
+* 巨力使和水力使则在出现时就可以立即击破护盾和第一个关节。
 
-## Limbs <a href="#limbs" id="limbs"></a>
+## 关节 <a href="#limbs" id="limbs"></a>
 
-This phase is the most repetitive part of the hunt, where you aim to take down all of the Eidolon's Limbs at intervals of about 17.2 s apart.
+这是狩猎中重复最多的阶段，目标是以约 17.2 秒的间隔，依次击破夜灵的所有关节。
 
-* In speed runs, it's crucial to synchronize closely with this timing.
-* Even in casual runs, avoiding long delays between limb breaks is important to prevent the Eidolon from using its abilities.
-* The Teralyst has 4 limbs: 2 knees and 2 arms.
-* The Gantulyst and Hydrolyst each have 6 limbs: 2 knees, 2 arms, and 2 shoulders.
+* 竞速中，严格配合这一节奏非常重要。
+* 即使是休闲狩猎，也应避免两次破关之间拖延太久，以免夜灵施放技能。
+* 兆力使有 4 个关节：双膝和双臂。
+* 巨力使和水力使各有 6 个关节：双膝、双臂和双肩。
 
-## Healing <a href="#healing" id="healing"></a>
+## 恢复 <a href="#healing" id="healing"></a>
 
-The healing phase lasts about 48 s and begins immediately after you break the last limb of each Eidolon. It ends when you take the Capture/Kill shot. The phase unfolds as follows:
+恢复阶段持续约 48 秒，从击破夜灵最后一个关节开始，到完成捕获／击杀的收尾射击时结束。具体流程如下：
 
-* Vomvalysts start spawning underneath the Eidolon at intervals of **2.4 s** (typically totaling 3 or 4 Vomvalysts).
-* The Eidolon will lie on the ground, screaming, and remain inactive for a period, allowing you time to handle other tasks.
-* Once the Eidolon finishes healing, it will begin to rise up.
-* Vomvalysts start spawning again, similar to the initial phase.
-* The phase ends when it becomes vulnerable and its ready for you to take the Capture/Kill shot (Health becomes vulnerable).
+* 夜灵脚下开始以 **2.4 秒**的间隔刷新小夜灵，通常共刷新 3～4 只。
+* 夜灵倒地吼叫，在一段时间内不再行动，你可以利用这段时间处理其他任务。
+* 夜灵恢复完毕后，会开始起身。
+* 小夜灵再次开始刷新，与阶段开始时类似。
+* 夜灵解除无敌、生命值可以受到伤害时，即可进行捕获／击杀的收尾射击，结束此阶段。
 
-## Capture <a href="#capture" id="capture"></a>
+## 捕获 <a href="#capture" id="capture"></a>
 
-It's crucial to take your Capture/Kill shot as soon as possible. Delaying too long with Vomvalysts around can cause the Eidolon to regenerate its shields, resulting in additional time loss. It's also a good idea to double-check that you have enough charged lures to capture the Eidolon otherwise it will result in a kill (which is generally undesired).
+应尽快完成捕获／击杀的收尾射击。如果拖延太久且附近有小夜灵，夜灵可能恢复护盾，造成额外时间损失。同时务必确认已充满的气球数量足够，否则会变成击杀，通常不符合狩猎目标。
 
 {% hint style="info" %}
-You can "pre-fire" with fast firing weapons like Dual Toxocyst Incarnon or Knell Prime to ensure a fast capshot
+可以使用灵化毒囊双枪或丧钟 Prime 等高射速武器提前开火，以缩短收尾耗时。
 {% endhint %}
 
-## Looting <a href="#looting" id="looting"></a>
+## 拾取掉落 <a href="#looting" id="looting"></a>
 
-Loot can be obtained in two ways:
+掉落物的出现方式有两种：
 
-* If you kill the Eidolon, it will appear underneath the Eidolon immediately after taking the Kill shot.
-* If you capture the Eidolon, the loot will emerge from the first lure that was tethered to the Eidolon approximately **15 s** after the Capture shot.
+* 击杀夜灵时，掉落物会在收尾射击后立即出现在夜灵脚下。
+* 捕获夜灵时，掉落物会在收尾射击约 **15 秒**后，从第一个连接夜灵的气球中出现。

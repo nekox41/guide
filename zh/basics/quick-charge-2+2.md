@@ -4,71 +4,71 @@ metaLinks:
     - https://app.gitbook.com/s/sc7MPTyiIfSwOeLlvpUg/basics/quick-charge-2+2
 ---
 
-# Quick Charge 2+2
+# 首充 2+2
 
-### Definition
+### 定义
 
-**Quick Charging** means fully charging the first Lure fast enough to break Teralyst’s first limb as soon as it becomes vulnerable. You follow the same principles as outlined here ⁠[<mark style="color:$success;">**Force Spawn Vomvalyst**</mark>](force-spawn-vomvalyst.md), but you repeat the process twice. Make sure one of the spawns is at a Grineer camp, where you'll collect the Lure along with a pair of Vomvalysts.
+**首充（QC）**指及时充满第一个气球，以便在兆力使第一个关节解除无敌时立即破关。原理与[<mark style="color:$success;">**定点刷新小夜灵**</mark>](force-spawn-vomvalyst.md)相同，只是需要连续执行两次。其中一次必须在 Grineer 营地刷新，以便同时取得气球和两只小夜灵。
 
-In **squad runs** with two or more players, you can streamline the process by dividing the tasks among team members. For instance:
+在两人及以上的**组队狩猎**中，可以通过分工简化流程。例如：
 
-* The Host: Goes directly to a Grineer camp to acquire a Lure and two Vomvalysts.
-* The Client(s): Spawns an additional set of Vomvalysts for the host to collect.
+* 主机：直接前往 Grineer 营地，获取一个气球和两只小夜灵。
+* 客机：额外刷新一组小夜灵，供主机收集。
 
-### Clips
+### 视频示例
 
 <details>
 
-<summary><strong>CR > East</strong></summary>
+<summary><strong>右近点 > 东营地</strong></summary>
 
 {% embed url="https://www.youtube.com/watch?v=VbShEx-jGKc" %}
 
-* Can be done with any Warframe, that makes it great for Voltless runs
+* 任何战甲都能使用，适合无 Volt 玩法。
 
-(red dots viable vomv spawn locations)\
-**T1:** take as long as you want, ideally **fly for T1** and save your **blink for T2**\
-**T2:** as fast as you can make it\
-**T3:** as fast as you can make it\
-**T4**: no time pressure
+（红点表示可用的小夜灵刷新位置）\
+**T1：**不限制耗时；理想情况下这一段**正常飞行**，将**闪瞬留给 T2**。\
+**T2：**越快越好。\
+**T3：**越快越好。\
+**T4：**没有时间压力。
 
 </details>
 
 <details>
 
-<summary><strong>Log > East</strong></summary>
+<summary><strong>倒木 > 东营地【待确认：Log 点位俗称】</strong></summary>
 
 {% embed url="https://www.youtube.com/watch?v=Qu0Uqn-zHRc" %}
 
-* Some hunters find this easier to perform, solid for Volt or Warframes that can get extra speed
+* 部分玩家觉得这条路线更容易，适合 Volt 或其他能获得额外移速的战甲。
 
 </details>
 
 <details>
 
-<summary><strong>East > Shrine</strong></summary>
+<summary><strong>东营地 > 祭坛</strong></summary>
 
 {% embed url="https://www.youtube.com/watch?v=SqSFHMeDDgA" %}
 
-* You must kill **all the Grineer** in the camp for the Shrine Vomvs to spawn
+* 必须击杀营地内的**所有 Grineer**，祭坛处的小夜灵才会刷新。
 
 </details>
 
 <details>
 
-<summary><strong>Log > West</strong></summary>
+<summary><strong>倒木 > 西营地【待确认：Log 点位俗称】</strong></summary>
 
 {% embed url="https://www.youtube.com/watch?v=-rUNHH4334s" %}
 
-* It exists, worse than the previous options
+* 可以使用，但不如前面的路线。
 
 </details>
 
 <details>
 
-<summary><strong>East</strong><sup><strong>2</strong></sup></summary>
+<summary><strong>东营地</strong><sup><strong>2</strong></sup></summary>
 
 {% embed url="https://www.youtube.com/watch?v=NMrNCqCEUQ4" %}
 
-* **Don't use this one**, it can be kinda useful as a backup for duos if you mess-up but otherwise pointless
+* **不推荐使用**。双人狩猎失误时可以勉强作为补救，除此之外意义不大。
 
 </details>

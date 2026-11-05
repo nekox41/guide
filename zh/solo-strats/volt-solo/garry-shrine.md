@@ -5,26 +5,26 @@ metaLinks:
       https://app.gitbook.com/s/sc7MPTyiIfSwOeLlvpUg/solo-strats/volt-solo/garry-shrine
 ---
 
-# Garry Shrine
+# 巨力使祭坛阶段
 
-## At the Shrine – VS Timing
+## 祭坛阶段：虚空重击时机
 
-When the loot pop:
+掉落气球爆炸时：
 
-* Go Operator
-* Use the Power Transfer timer to time your VS:
+* 切换到指挥官。
+* 使用能量转换的倒计时判断虚空重击的施放时机：【待确认：能量转换对应 Power Transfer，专精节点中文名待核对】
 
-## Timing
+## 时机
 
-You have to VS 7s after the loot lure explodes before casting VS\
-But if you are constant, it remains the same as Nova
+掉落气球爆炸后等待 7 秒，再施放虚空重击。\
+如果操作足够稳定，也可以像 Nova 一样用能量转换计时。
 
 {% columns %}
 {% column width="75%" %}
-* 13s for Garry Water
-* Activate Void Strike, switch back to your frame→ Archwing
-* Insert the shard
-* Go directly to the CR (Close Right)
+* 巨力使出水：能量转换剩余 13 秒。
+* 施放虚空重击，切回战甲 → 使用曲翼。
+* 放入碎片。
+* 直接前往右近点（CR）。
 {% endcolumn %}
 
 {% column width="25%" %}
@@ -32,17 +32,17 @@ But if you are constant, it remains the same as Nova
 {% endcolumn %}
 {% endcolumns %}
 
-What follows depends on the Garry spawn
+之后的操作取决于巨力使的出水点位。
 
-See Lithiu examples : [Link](https://youtu.be/3CTtIk8WEuU?t=155)
+查看 Lithiu 的示例：[链接](https://youtu.be/3CTtIk8WEuU?t=155)
 
-## Garry Fight
+## 巨力使战斗
 
-* For Garry’s limbs, same for Terry,
+* 巨力使的关节阶段与兆力使相同。
 
-## After the Down
+## 倒地之后
 
-* Use the forced Vomvalyst spawns to charge your lures
-* Go pick up 2 lures
-* Perform the Garry capshot
-* Return to the shrine
+* 利用定点刷新的小夜灵为气球充能。
+* 再获取两个气球。
+* 完成巨力使的收尾射击。
+* 返回祭坛。

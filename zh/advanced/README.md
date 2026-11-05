@@ -5,5 +5,5 @@ metaLinks:
     - https://app.gitbook.com/s/sc7MPTyiIfSwOeLlvpUg/advanced
 ---
 
-# Advanced
+# 进阶技巧
 

@@ -59,9 +59,9 @@ metaLinks:
 
 <details>
 
-<summary><strong>待命舰员</strong></summary>
+<summary><strong>待命船员</strong></summary>
 
-* 在这里查看更详细的内容: [<mark style="color:$success;">**待命舰员**</mark>](on-call-crew-occ.md)
+* 在这里查看更详细的内容: [<mark style="color:$success;">**待命船员**</mark>](on-call-crew-occ.md)
 
 </details>
 

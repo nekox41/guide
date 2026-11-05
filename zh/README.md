@@ -17,25 +17,25 @@ metaLinks: {}
 {% columns %}
 {% column %}
 {% content-ref url="builds/" %}
-[builds](builds/)
+[配装](builds/)
 {% endcontent-ref %}
 
 {% content-ref url="basics/" %}
-[basics](basics/)
+[基础知识](basics/)
 {% endcontent-ref %}
 
 {% content-ref url="advanced/" %}
-[advanced](advanced/)
+[进阶技巧](advanced/)
 {% endcontent-ref %}
 {% endcolumn %}
 
 {% column %}
 {% content-ref url="solo-strats/" %}
-[solo-strats](solo-strats/)
+[单人攻略](solo-strats/)
 {% endcontent-ref %}
 
 {% content-ref url="duo-strats/" %}
-[duo-strats](duo-strats/)
+[双人攻略](duo-strats/)
 {% endcontent-ref %}
 {% endcolumn %}
 {% endcolumns %}

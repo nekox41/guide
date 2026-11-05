@@ -4,5 +4,5 @@ metaLinks:
     - https://app.gitbook.com/s/sc7MPTyiIfSwOeLlvpUg/builds/beginner-builds
 ---
 
-# Beginner Builds
+# 入门配装
 

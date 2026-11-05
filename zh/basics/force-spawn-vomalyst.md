@@ -1,22 +1,22 @@
-# Force Spawn Vomalyst
+# 定点刷新小夜灵
 
-### **Distance**
+### **距离**
 
-* Vomvalysts typically spawn approximately 150m away from your Warframe. Pay attention to vertical distance; being too high may limit your control over their spawning location.
+* 小夜灵通常在距离战甲约 150 米的位置刷新。注意垂直距离：飞得太高可能会影响你控制刷新位置。
 
-### **Time**
+### **时间**
 
-* Vomvalysts follow a 6s spawning cycle. Position yourself accordingly; arriving early means waiting for them to spawn, while being late suggests they may have spawned elsewhere, but you can wait for the next cycle.
+* 小夜灵按 6 秒周期刷新，应据此调整站位。到得早就需要等待；到得晚则可能已经刷在别处，但可以等待下个周期。
 
-### **Direction**
+### **方向**
 
-* The direction your camera faces matters. Be mindful of this, especially when experimenting with new flight paths.
+* 镜头朝向也会影响刷新，尝试新飞行路线时尤其要注意。
 
-### **Clips**
+### **视频示例**
 
 <details>
 
-<summary>Log/Horns Vomvs</summary>
+<summary>倒木／牛角处的小夜灵【待确认：Log / Horns 点位俗称】</summary>
 
 {% embed url="https://youtu.be/G-oymNfNOxw" %}
 
@@ -24,7 +24,7 @@
 
 <details>
 
-<summary>East Camp Vomvs</summary>
+<summary>东营地的小夜灵</summary>
 
 {% embed url="https://youtu.be/4kmqct6GFXk" %}
 
@@ -32,7 +32,7 @@
 
 <details>
 
-<summary>Far West</summary>
+<summary>西侧远点</summary>
 
 {% embed url="https://youtu.be/5xt0MbqBqtU" %}
 

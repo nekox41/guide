@@ -4,55 +4,55 @@ metaLinks:
     - https://app.gitbook.com/s/sc7MPTyiIfSwOeLlvpUg/advanced/advanced-after-6x3
 ---
 
-# Advanced (After 6x3)
+# 进阶目标（6x3 之后）
 
-It’s imperative for new Hunters stuck at 6x3s without progress to shift focus toward Shrine Cycles and Breakpoints (aka Bus). These give you measurable, repeatable goals that actually reflect your improvement.
+如果你已经能完成 6x3，却迟迟没有进步，应当把重点转向祭坛周期和时间阈值（也称“班车”，Bus【待确认：社区惯用译法】）。这些指标能提供可量化、可重复的目标，帮助你衡量进步。
 
 {% hint style="info" %}
-[**Idalon**](https://idalon.com/)**:** a log analyzer, allows you to review your hunt logs ([**EE.log**](https://wiki.warframe.com/w/EE.log)), letting you keep a record of your runs over time.
+[**Idalon**](https://idalon.com/)**：**日志分析工具，可用于查看狩猎日志（[**EE.log**](https://wiki.warframe.com/w/EE.log)），并长期记录每次狩猎的表现。
 {% endhint %}
 
-## Progression Goals in Solo
+## 单人进阶目标
 
-### **Teralyst**
+### **兆力使**
 
-Target the **1:23.300** Last Limb Break Time (LLBT).
+将最后一个关节的击破时间（LLBT）控制在 **1:23.300**。
 
 {% hint style="warning" %}
-**Your Capshot Time (CT) matters too:** if your CT = 50 ms, then your LLBT must be ≤ 1:23.250. This is why we use fast firing automatic weapons for capshots.
+**收尾耗时（CT）也很重要：**如果 CT = 50 ms，那么 LLBT 必须 ≤ 1:23.250。这也是我们使用高射速自动武器收尾的原因。
 {% endhint %}
 
-For this purpose, it is highly recommended to progress in
+为此，强烈建议练习以下内容：
 
-* [<mark style="color:$success;">**QC 2+2**</mark>](../basics/quick-charge-2+2.md)
-* **Propa & Raplak Timing** at [<mark style="color:$success;">**100ms avg**</mark>](../basics/raplak-and-propa-timing.md)
+* [<mark style="color:$success;">**首充 2+2**</mark>](../basics/quick-charge-2+2.md)
+* **7 支架与 1 棱镜的时机**，目标为[<mark style="color:$success;">**平均 100 ms**</mark>](../basics/raplak-and-propa-timing.md)
 
-**From an idalon log:**
+**查看 Idalon 日志：**
 
-* You'll know you succeeded if your **Shrine Time** is **9.Xs**.
-* If it's **10.Xs** or **11s**, you missed
+* 如果你的**祭坛耗时**为 **9.X 秒**，就说明成功了。
+* 如果为 **10.X 秒**或 **11 秒**，说明你错过了这班车。
 
 <details>
 
-<summary><strong>Example logs</strong></summary>
+<summary><strong>日志示例</strong></summary>
 
-<figure><img src="https://1960884447-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FMnWMWMKLrFw5Len33GHR%2Fuploads%2FCIKLYa5B1JXxFZI23sSe%2Funknown.png?alt=media&#x26;token=e2f5e7bf-fe54-4fa6-9014-2bf2208f28da" alt=""><figcaption><p>9.383s shrine time = success</p></figcaption></figure>
+<figure><img src="https://1960884447-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FMnWMWMKLrFw5Len33GHR%2Fuploads%2FCIKLYa5B1JXxFZI23sSe%2Funknown.png?alt=media&#x26;token=e2f5e7bf-fe54-4fa6-9014-2bf2208f28da" alt=""><figcaption><p>祭坛耗时 9.383 秒 = 成功</p></figcaption></figure>
 
-<figure><img src="https://1960884447-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FMnWMWMKLrFw5Len33GHR%2Fuploads%2Fg3237g5Ca4F1RVdsczCM%2Funknown.png?alt=media&#x26;token=b5915747-e28f-4809-9376-7c56d9e0eae4" alt=""><figcaption><p>10.201s shrine time = failure</p></figcaption></figure>
+<figure><img src="https://1960884447-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FMnWMWMKLrFw5Len33GHR%2Fuploads%2Fg3237g5Ca4F1RVdsczCM%2Funknown.png?alt=media&#x26;token=b5915747-e28f-4809-9376-7c56d9e0eae4" alt=""><figcaption><p>祭坛耗时 10.201 秒 = 失败</p></figcaption></figure>
 
 </details>
 
-### **Gantulyst**
+### **巨力使**
 
-Target the **4:07.700** LLBT.
+将 LLBT 控制在 **4:07.700**。
 
-To make this easier, you should work on:
+为了更容易达成目标，建议练习：
 
-* **Sub 4.0s Waters**, learn all the [<mark style="color:$success;">**spawns**</mark>](../basics/spawn-locations.md) and become consistent
-* [<mark style="color:$success;">**Lure Management**</mark>](../basics/lure-management.md)
+* **4.0 秒内完成出水**，熟悉所有[<mark style="color:$success;">**出水点位**</mark>](../basics/spawn-locations.md)，并提高稳定性。
+* [<mark style="color:$success;">**气球管理**</mark>](../basics/lure-management.md)
 
-At first you should hit this at least for CR and Mid. CL should be fairly easy too. Long spawn requires a lot more practice, don't stress if its considerably slower at first.
+开始时，至少争取在右近点（CR）和中点（Mid）达标；左近点（CL）也相对容易。远点（Long）需要更多练习，起初慢很多也不必着急。
 
 {% hint style="warning" %}
-Important: the [<mark style="color:$success;">**breakpoints**</mark>](shrine-cycles-and-bus.md) (bus) showed here may differ from your own experience, based on squad composition and average FPS but they still give you a general idea
+重要：此处展示的[<mark style="color:$success;">**时间阈值**</mark>](shrine-cycles-and-bus.md)（班车）会因队伍配置和平均帧率而与你的实际体验不同，但仍可作为大致参考。
 {% endhint %}

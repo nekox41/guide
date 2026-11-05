@@ -4,18 +4,18 @@ metaLinks:
     - https://app.gitbook.com/s/sc7MPTyiIfSwOeLlvpUg/basics/qol-settings
 ---
 
-# QOL Settings
+# 便利性设置
 
-* **Fire Manual Trigger Weapons Continuosly** ON
-* **Enemy Highlights** ON
-  * **Enemy Highlight Color/Intensity** to your liking
-* **Double Jump executes Void Sling** ON
-* **Customize Key bindings > Jump** to Mouse Wheel Up or Down
+* 开启**连续射击手动扳机武器**（Fire Manual Trigger Weapons Continuously【待确认：游戏内选项名称】）。
+* 开启**敌人高亮显示**。
+  * **敌人高亮颜色／强度**可按个人喜好调整。
+* 开启**二段跳执行虚空弹射**。
+* 在**自定义按键绑定 > 跳跃**中，绑定鼠标滚轮向上或向下。
 
 <figure><img src="https://1960884447-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FMnWMWMKLrFw5Len33GHR%2Fuploads%2FPX1O1RgP2KWnDFQmlLcJ%2FSettings.png?alt=media&#x26;token=04e5e915-c0f3-4409-b24a-9aa766177693" alt=""><figcaption></figcaption></figure>
 
-To obtain the Eclipse Day buff (weapon damage), you must hold down the button,\
-but for **greater comfort**, we recommend inverting this in your settings.
+默认情况下，需要长按技能键才能获得黯然失色的白昼增益（武器伤害）。\
+为了**操作更方便**，建议在设置中反转该技能的点按／长按行为。
 
 <figure><img src="https://1960884447-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FMnWMWMKLrFw5Len33GHR%2Fuploads%2FjfpCNKz1Wqw3Z9Pc9LA9%2Funknown.png?alt=media&#x26;token=3ab745a6-d2a2-44eb-9dea-c4e8ca60d09d" alt=""><figcaption></figcaption></figure>
 

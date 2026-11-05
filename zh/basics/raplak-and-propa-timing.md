@@ -18,7 +18,7 @@ metaLinks:
 <mark style="color:$danger;">**重要:**</mark> 虽然你可以把目标设置为 **0 ms** 破盾，但理想的做法是你了解自己的波动范围并进行调整。例如，你目标是 0 ms 但实际波动范围在 -50 ms 到 +50 ms 之间，那你应该把目标设为 +50 ms。这样的话，你的实际命中取件就会落在 0 到 100 ms之间，从而保证破盾的稳定性。
 {% endhint %}
 
-#### Links:
+#### 链接：
 
 [https://idalon.com/games/raplak](https://idalon.com/games/raplak)[\
 https://idalon.com/games/propa](https://idalon.com/games/propa)[\

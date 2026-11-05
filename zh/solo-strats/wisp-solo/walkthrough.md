@@ -5,48 +5,48 @@ metaLinks:
       https://app.gitbook.com/s/sc7MPTyiIfSwOeLlvpUg/solo-strats/wisp-solo/walkthrough
 ---
 
-# Walkthrough
+# 实战流程
 
-This is just one example of a working gameplay. You don’t have to follow it exactly.\
-QC and lure management can be adjusted
+这里只展示一种可行的打法，你不必完全照搬。\
+首充和气球管理可以自行调整。
 
-## **Entering the Plains**
+## **进入平原**
 
-* Enter the Plains
-* The easiest QC for Wisp is the one shown in here [**link**](https://youtu.be/Xce4AZBNfXQ)
+* 进入平原。
+* Wisp 最简单的首充方式可以参考此处[**链接**](https://youtu.be/Xce4AZBNfXQ)。
 
-## **Terry - Fight**
+## **兆力使：战斗**
 
-#### **Water Limb (First Limb)**
+#### **出水关节（第一个关节）**
 
-* Take Terry’s first limb, use Raplak with Void Strike
-* Immediately go pick up two more lures
-  * either **two** during the same limb-limb interval or
-  * get **one** at a time in between limbs
+* 使用 1 棱镜配合虚空重击，击破兆力使的第一个关节。
+* 立即再去获取两个气球。
+  * 可以在同一段关节间隔内获取**两个**；
+  * 也可以在两段关节间隔中各取**一个**。
 
-#### **Limb breaking**
+#### **击破关节**
 
-Gets your buffs and timing right, keep in mind that a Yellow Crit Raplak (2.8% chance) won't break the limb so you may want to either:
+确保增益和时机正确。注意：1 棱镜出现黄色暴击（概率 2.8%）时无法打断关节，因此可以选择：
 
-* replace [**Eternal Eradicate**](https://wiki.warframe.com/w/Eternal_Eradicate) with [**Virtuos Shadow**](https://wiki.warframe.com/w/Virtuos_Shadow), this will allow your Raplak to surpass 200% CC
-* use [**Mandonel**](https://wiki.warframe.com/w/Mandonel)**,** though having to gather lures makes this really tedious [Link](https://youtu.be/XEftgKmor9A)
-* gamble it and do none of the above
+* 将[**永恒湮灭**](https://wiki.warframe.com/w/Eternal_Eradicate)替换为[**正直暗影（待确认：Virtuos Shadow 中文名）**](https://wiki.warframe.com/w/Virtuos_Shadow)，使 1 棱镜暴击几率超过 200%。
+* 使用[**辐光弩炮**](https://wiki.warframe.com/w/Mandonel)，但同时还要收集气球，操作会比较繁琐：[链接](https://youtu.be/XEftgKmor9A)。
+* 或者两种都不用，接受这点概率风险。
 
-## Terry Down – Setup
+## 兆力使倒地：准备工作
 
-Before finishing Terry
+完成兆力使收尾之前：
 
-* Make sure your lures are set to Hold Position under Terry
-* Place your [<mark style="color:$success;">**crewmate**</mark>](../../basics/on-call-crew-occ.md)
+* 确保气球设为在兆力使脚下原地待命。
+* 部署[<mark style="color:$success;">**待命船员**</mark>](../../basics/on-call-crew-occ.md)。
 
-## **Garry Water Preparation**
+## **巨力使出水准备**
 
-After the Terry down:
+兆力使倒地后：
 
-* Take at least 3 more lures
-* Place your water setup motes ([<mark style="color:$success;">**see loc-pin**</mark>](loc-pins.md))
+* 至少再带上 3 个气球。
+* 放置出水所需的储能池（[<mark style="color:$success;">**查看位置-图针**</mark>](loc-pins.md)）。
 
-Then:
+然后：
 
-* Perform the Terry Capshot
-* Go to the shrine
+* 完成兆力使的收尾射击。
+* 前往祭坛。

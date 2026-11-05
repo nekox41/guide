@@ -4,40 +4,42 @@ metaLinks:
     - https://app.gitbook.com/s/sc7MPTyiIfSwOeLlvpUg/advanced/pre-vs-at-shrine
 ---
 
-# Pre-VS at Shrine
+# 在祭坛提前施放虚空重击
 
-Shrine **Pre-VS** refers to casting [**Void Strike**](https://wiki.warframe.com/w/Focus/Madurai#Void_Strike) before placing your Shard at the Shrine. This has to be timed right to ensure you still have VS active when you take the Eidolon's **Water Shield**.
+祭坛 **Pre-VS** 指在向祭坛放入碎片之前，提前施放[**虚空重击**](https://wiki.warframe.com/w/Focus/Madurai#Void_Strike)。必须把握好时机，确保击破夜灵的**出水盾**时，虚空重击仍然生效。
 
-The challenge is to accurately time VS
+难点在于准确控制虚空重击的施放时机：
 
-* if you cast it **too early**, it will expire before you get to take the Water Shield
-* **too late** and you will get **Shrine Delay** and potentially a **Spawn Delay** from not placing your Shard on time
+* **太早**施放，效果会在击破出水盾之前结束。
+* **太晚**施放，则会因未及时放入碎片导致**祭坛延迟**，甚至进一步导致**出水延迟**。
 
-**Shrine Time** is the key factor for timing Pre-VS
+**祭坛耗时**是决定提前施放时机的关键。
 
-* Shrine Time is the time lapsed from the moment the **Loot Lure** explodes to **Shrine Activation**
-* **Garry** Shrine Time ranges from 9 to 11 seconds
-* **Harry** Shrine Time ranges from 11 to 13 seconds
+* 祭坛耗时：从**掉落气球**爆炸到**祭坛激活**之间的时间。
+* **巨力使**祭坛耗时为 9～11 秒。
+* **水力使**祭坛耗时为 11～13 秒。
 
-## Pre-VS recommended times
+## 推荐的提前施放时机
 
-Time to wait after Loot Lure pops:
+掉落气球爆炸后，等待以下时间：
 
-* **Garry** - 7 seconds
-* **Harry** - 9 seconds
+* **巨力使**：7 秒。
+* **水力使**：9 秒。
 
-## Timing with Power Transfer
+## 利用能量转换计时
 
-[**Power Transfer**](https://wiki.warframe.com/w/Focus/Madurai#Power_Transfer) lasts 20s upon switching to your Operator. This can be used to time your Pre-VS in the following way:
+【待确认：能量转换对应 Power Transfer，专精节点中文名待核对。】
 
-### Garry
+切换到指挥官时，[**能量转换**](https://wiki.warframe.com/w/Focus/Madurai#Power_Transfer)持续 20 秒，可按以下方式用来判断提前施放的时机：
+
+### 巨力使
 
 {% columns %}
 {% column width="75%" %}
-1. Transfer to your **Operator** at the sane instant the **Loot Lure pops**
-2. Wait until <kbd>**13s left**</kbd> on Power Transfer
-3. Activate **Void Strike**
-4. Insert the **Shard**
+1. 在**掉落气球爆炸**的瞬间，切换到**指挥官**。
+2. 等待能量转换显示<kbd>**剩余 13 秒**</kbd>。
+3. 施放**虚空重击**。
+4. 放入**碎片**。
 {% endcolumn %}
 
 {% column width="25%" %}
@@ -45,14 +47,14 @@ Time to wait after Loot Lure pops:
 {% endcolumn %}
 {% endcolumns %}
 
-### **Harry**
+### **水力使**
 
 {% columns %}
 {% column width="75%" %}
-1. Transfer to your **Operator** at the sane instant the **Loot Lure pops**
-2. Wait until <kbd>**11s left**</kbd> on Power Transfer
-3. Activate **Void Strike**
-4. Insert the **Shard**
+1. 在**掉落气球爆炸**的瞬间，切换到**指挥官**。
+2. 等待能量转换显示<kbd>**剩余 11 秒**</kbd>。
+3. 施放**虚空重击**。
+4. 放入**碎片**。
 {% endcolumn %}
 
 {% column width="25%" %}
