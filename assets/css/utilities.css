@@ -1,0 +1,8 @@
+@layer utilities {
+  .aa-sr-only { position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip-path: inset(50%); white-space: nowrap; border: 0; }
+  /* 减少动态效果优先于全部组件和环境动画。 */
+  @media(prefers-reduced-motion:reduce) {
+    *,*::before,*::after { animation-duration: var(--aa-reduced-duration) !important; animation-iteration-count: 1 !important; transition-duration: var(--aa-reduced-duration) !important; scroll-behavior: auto !important; }
+    .aa-fx { display: none !important; }
+  }
+}

@@ -1,0 +1,12 @@
+@layer effects {
+  @keyframes aa-arrive { from { opacity: 0; transform: translateY(var(--aa-sp-3)); } to { opacity: 1; transform: none; } }
+  @keyframes aa-float { 0%,100% { transform: translateY(0); } 50% { transform: translateY(var(--aa-float-distance)); } }
+  @keyframes aa-fall { 0% { transform: translate3d(0,-10vh,0) rotate(0); opacity: 0; } 12% { opacity: var(--aa-petal-opacity); } 50% { transform: translate3d(var(--aa-sway),50vh,0) rotate(120deg); } 100% { transform: translate3d(0,110vh,0) rotate(240deg); opacity: 0; } }
+  .aa-hero__copy,.aa-section,.aa-article { animation: aa-arrive var(--aa-dur-3) var(--aa-ease-hesitate) var(--aa-delay-beat) both; }
+  .aa-hero__art { animation: aa-float var(--aa-float-period) var(--aa-ease-soft) infinite; }
+  .aa-fx { position: fixed; inset: 0; pointer-events: none; overflow: hidden; z-index: var(--aa-z-fx); }
+  .aa-petal { position: absolute; left: var(--aa-left); top: 0; width: var(--aa-petal-size); aspect-ratio: 1/1.3; border-radius: var(--aa-petal-radius); background: var(--aa-sakura-300); opacity: 0; animation: aa-fall var(--aa-petal-duration,var(--aa-petal-period)) linear var(--aa-petal-delay) infinite; }
+  .aa-petal[data-blue] { background: var(--aa-mist-300); }
+  :root[data-page-hidden] *, :root[data-effects="off"] .aa-hero__art { animation-play-state: paused; }
+  :root[data-effects="off"] .aa-fx { display: none; }
+}

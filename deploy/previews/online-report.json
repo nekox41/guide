@@ -1,0 +1,13 @@
+{
+  "release": "20261105-aa-design-v1",
+  "url": "https://guide.aameow.com",
+  "chinese_pages": 89,
+  "https_paths_checked": 202,
+  "all_paths_http_200": true,
+  "external_loading_dependencies": 0,
+  "http_redirects_to_https": true,
+  "search_index_valid": true,
+  "nginx_config_valid": true,
+  "certbot_timer_active": true,
+  "static_cache_and_text_compression_verified": true
+}

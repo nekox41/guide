@@ -27,4 +27,4 @@ metaLinks:
 
 ## 汉化
 
-汉化：Aameow
+Aameow

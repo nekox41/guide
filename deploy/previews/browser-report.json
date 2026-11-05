@@ -1,0 +1,29 @@
+{
+  "violations": [
+    {
+      "name": "home-light",
+      "issues": []
+    },
+    {
+      "name": "home-dark",
+      "issues": []
+    },
+    {
+      "name": "article-dark",
+      "issues": []
+    },
+    {
+      "name": "mobile-light",
+      "issues": []
+    }
+  ],
+  "overflow": [],
+  "external": [],
+  "errors": [],
+  "search": true,
+  "escape": true,
+  "themePersistence": true,
+  "mobileMenu": true,
+  "reducedMotion": true,
+  "clickToLoadVideo": true
+}

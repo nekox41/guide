@@ -1,0 +1,23 @@
+{
+  "base": "http://127.0.0.1:8766",
+  "portrait": true,
+  "legacySvgRemoved": true,
+  "iconsAndManifest": true,
+  "search": true,
+  "motionControls": true,
+  "reducedMotion": true,
+  "overflow": [],
+  "errors": [],
+  "failed": [],
+  "external": [],
+  "violations": [
+    {
+      "theme": "light",
+      "issues": []
+    },
+    {
+      "theme": "dark",
+      "issues": []
+    }
+  ]
+}

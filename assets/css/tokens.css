@@ -1,0 +1,156 @@
+@layer reset, tokens, base, components, effects, utilities;
+@layer tokens {
+  :root {
+    /* ── 品牌色 ───────────────────────── */
+    --aa-sakura-50:  #FFF5F8;
+    --aa-sakura-100: #FCE4EC;
+    --aa-sakura-200: #F8CFDB;
+    --aa-sakura-300: #F3B9CA;   /* 主识别色：樱花粉 */
+    --aa-sakura-400: #EC9DB5;
+    --aa-sakura-500: #DF7F9C;   /* 强调/按下态 */
+
+    --aa-mist-50:  #F2F6FA;
+    --aa-mist-100: #E3ECF4;
+    --aa-mist-200: #C5D5E5;     /* 雾霾蓝：背景/辅助 */
+    --aa-mist-300: #A9BEDA;
+    --aa-eye-400:  #899DBD;     /* 灰蓝瞳：次级强调、链接 */
+    --aa-sky-bg:   #BFDDF2;     /* 插画底色（头像/封面用） */
+
+    --aa-cream:    #FAF6F3;     /* 奶油白：页面底色 */
+    --aa-white:    #FFFFFF;
+    --aa-plum-700: #51495E;     /* 深灰紫：文字、蝴蝶结、发夹 */
+    --aa-plum-800: #3E3748;
+    --aa-plum-900: #2B2633;
+    --aa-rosegold: #E3B7B0;     /* 眼镜框浅玫瑰金 */
+
+    /* ── 语义色（亮色） ───────────────── */
+    --aa-bg:           var(--aa-cream);
+    --aa-bg-elevated:  var(--aa-white);
+    --aa-bg-tint:      var(--aa-mist-50);
+    --aa-ink:          var(--aa-plum-700);   /* 正文 */
+    --aa-ink-strong:   var(--aa-plum-900);   /* 标题 */
+    --aa-ink-muted:    #7A7287;              /* 次要文字，对比度 ≥ 4.5 于 cream */
+    --aa-line:         color-mix(in srgb, var(--aa-mist-200) 70%, transparent);
+    --aa-accent:       var(--aa-sakura-300);
+    --aa-accent-strong:var(--aa-sakura-500);
+    --aa-accent-2:     var(--aa-eye-400);
+    --aa-link:         #5F77A0;
+    --aa-focus:        var(--aa-eye-400);
+    --aa-success:      #8CC7B1;
+    --aa-warning:      #F0CC8E;
+    --aa-danger:       #E58B9B;
+
+    /* ── 渐变 ─────────────────────────── */
+    --aa-grad-sakura: linear-gradient(135deg, var(--aa-sakura-100), var(--aa-sakura-300));
+    --aa-grad-mist:   linear-gradient(160deg, var(--aa-mist-50), var(--aa-mist-200));
+    --aa-grad-dream:  linear-gradient(160deg, var(--aa-cream) 0%, var(--aa-sakura-50) 45%, var(--aa-mist-100) 100%);
+
+    /* ── 字体 ─────────────────────────── */
+    --aa-font-sans: "Zen Maru Gothic", "Noto Sans SC", "PingFang SC", "Hiragino Sans GB",
+                    "Microsoft YaHei", system-ui, -apple-system, "Segoe UI", sans-serif;
+    --aa-font-serif: "Noto Serif SC", "Songti SC", "Source Han Serif SC", serif;   /* 书本/引言场景 */
+    --aa-font-hand: "Dancing Script", "Snell Roundhand", "Segoe Script", cursive;  /* 仅用于 "aa" 签名 */
+    --aa-font-mono: ui-monospace, "SF Mono", Menlo, Consolas, monospace;
+
+    --aa-fs-xs:   0.75rem;
+    --aa-fs-sm:   0.875rem;
+    --aa-fs-md:   1rem;
+    --aa-fs-lg:   clamp(1.125rem, 1.05rem + 0.3vw, 1.25rem);
+    --aa-fs-xl:   clamp(1.375rem, 1.2rem + 0.8vw, 1.75rem);
+    --aa-fs-2xl:  clamp(1.75rem, 1.4rem + 1.6vw, 2.5rem);
+    --aa-fs-3xl:  clamp(2.25rem, 1.6rem + 3vw, 3.75rem);
+    --aa-lh-tight: 1.3;
+    --aa-lh-body:  1.8;          /* 中文正文行距偏松，体现"认真阅读感" */
+    --aa-ls-wide:  0.06em;       /* 标题/标签字距 */
+
+    /* ── 间距（4px 基线） ─────────────── */
+    --aa-sp-1: 0.25rem; --aa-sp-2: 0.5rem;  --aa-sp-3: 0.75rem; --aa-sp-4: 1rem;
+    --aa-sp-5: 1.5rem;  --aa-sp-6: 2rem;    --aa-sp-7: 3rem;    --aa-sp-8: 4.5rem;
+    --aa-container: min(72rem, 100% - 2 * var(--aa-gutter));
+    --aa-gutter: clamp(1rem, 4vw, 2.5rem);
+
+    /* ── 圆角 / 描边 ──────────────────── */
+    --aa-r-sm: 0.5rem;
+    --aa-r-md: 1rem;
+    --aa-r-lg: 1.5rem;
+    --aa-r-xl: 2rem;
+    --aa-r-pill: 999px;
+    --aa-bw: 1px;
+
+    /* ── 阴影（弥散、带粉紫色调，禁止纯黑） ── */
+    --aa-shadow-1: 0 1px 2px rgb(81 73 94 / .06), 0 2px 8px rgb(243 185 202 / .18);
+    --aa-shadow-2: 0 4px 12px rgb(81 73 94 / .07), 0 12px 28px rgb(243 185 202 / .22);
+    --aa-shadow-3: 0 8px 24px rgb(81 73 94 / .09), 0 24px 56px rgb(137 157 189 / .26);
+    --aa-glow-sakura: 0 0 0 4px rgb(243 185 202 / .35);
+    --aa-glow-focus:  0 0 0 3px rgb(137 157 189 / .55);
+
+    /* ── 动效 ─────────────────────────── */
+    --aa-ease-soft:   cubic-bezier(.33, .0, .2, 1);      /* 通用柔和 */
+    --aa-ease-hesitate: cubic-bezier(.5, 0, .15, 1);     /* 先慢后快，"慢半拍" */
+    --aa-ease-bounce-lite: cubic-bezier(.34, 1.36, .64, 1); /* 仅用于"突然理解"，幅度很小 */
+    --aa-dur-1: 120ms;  /* 微交互 */
+    --aa-dur-2: 240ms;  /* 常规 */
+    --aa-dur-3: 480ms;  /* 出现/切换 */
+    --aa-dur-4: 900ms;  /* 氛围 */
+    --aa-delay-beat: 90ms;  /* "慢半拍"延迟，hover/出现前的停顿 */
+    --aa-tail-period: 3.6s; /* 尾巴摆动周期 */
+
+    /* ── 层级 ─────────────────────────── */
+    --aa-z-base: 0; --aa-z-deco: 1; --aa-z-content: 10;
+    --aa-z-nav: 100; --aa-z-modal: 1000; --aa-z-toast: 1100; --aa-z-fx: 9000;
+
+    /* ── 纹理（用于卡片/封面的轻微纸感） ── */
+    --aa-grain: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='120' height='120'><filter id='n'><feTurbulence type='fractalNoise' baseFrequency='.8' numOctaves='2' stitchTiles='stitch'/><feColorMatrix values='0 0 0 0 .32  0 0 0 0 .29  0 0 0 0 .37  0 0 0 .07 0'/></filter><rect width='100%' height='100%' filter='url(%23n)'/></svg>");
+  }
+
+}
+@layer tokens {
+  :root[data-theme="dark"] {
+    --aa-bg:          #241F2D;
+    --aa-bg-elevated: #2F2939;
+    --aa-bg-tint:     #2A2534;
+    --aa-ink:         #E9E3EE;
+    --aa-ink-strong:  #FFF8FB;
+    --aa-ink-muted:   #A79FB5;
+    --aa-line:        rgb(197 213 229 / .16);
+    --aa-accent:      var(--aa-sakura-300);
+    --aa-link:        #B7C9E6;
+    --aa-shadow-1: 0 1px 2px rgb(0 0 0 / .3), 0 2px 8px rgb(243 185 202 / .06);
+    --aa-shadow-2: 0 6px 16px rgb(0 0 0 / .35), 0 12px 28px rgb(137 157 189 / .10);
+    --aa-shadow-3: 0 10px 28px rgb(0 0 0 / .4), 0 24px 56px rgb(137 157 189 / .14);
+    --aa-grad-dream: linear-gradient(160deg, #241F2D 0%, #2D2535 50%, #26283A 100%);
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --aa-bg:          #241F2D;
+      --aa-bg-elevated: #2F2939;
+      --aa-bg-tint:     #2A2534;
+      --aa-ink:         #E9E3EE;
+      --aa-ink-strong:  #FFF8FB;
+      --aa-ink-muted:   #A79FB5;
+      --aa-line:        rgb(197 213 229 / .16);
+      --aa-link:        #B7C9E6;
+      --aa-grad-dream: linear-gradient(160deg, #241F2D 0%, #2D2535 50%, #26283A 100%);
+    }
+  }
+}
+
+@layer tokens { :root {
+ /* 文档布局、阅读交互与插画的补充变量，沿用既有人设色系。 */
+ --aa-skin: #FFF1EA; --aa-hair-tip: #E6B6D2; --aa-eye-light: #B9CCE6;
+ /* 次要文字在雾霾蓝卡片底上也保持可读对比度。 */
+ --aa-ink-muted: color-mix(in srgb, var(--aa-plum-700) 65%, var(--aa-eye-400));
+ --aa-overlay: rgb(43 38 51 / .45); --aa-transparent: transparent;
+ --aa-reading-width: 48rem; --aa-sidebar-width: 17rem; --aa-toc-width: 12rem;
+ --aa-page-width: 96rem; --aa-header-height: 5rem; --aa-touch: 2.75rem;
+ --aa-focus-width: 2px; --aa-focus-offset: 3px; --aa-heading-spacing: .02em;
+ --aa-float-distance: -6px; --aa-rise: -3px; --aa-press: 1px; --aa-press-scale: .98;
+ --aa-float-period: 6s; --aa-blink-period: 6s; --aa-ear-duration: 480ms;
+ --aa-petal-radius: 100% 0 100% 0; --aa-petal-period: 12s; --aa-reduced-duration: .001ms;
+ --aa-petal-size: .75rem; --aa-icon-size: 1.25rem; --aa-blur: 14px;
+ --aa-sign-size: 3rem; --aa-sheet-width: 42rem; --aa-art-size: 24rem;
+ --aa-noise-opacity: .25; --aa-petal-opacity: .35;
+ --aa-surface-hover: color-mix(in srgb, var(--aa-accent) 16%, var(--aa-bg-elevated));
+ --aa-card-tint: color-mix(in srgb, var(--aa-bg-tint) 75%, var(--aa-bg-elevated));
+ --aa-pattern: radial-gradient(ellipse at center, var(--aa-mist-200) 0 14%, transparent 15%);
+ } }

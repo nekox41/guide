@@ -1,0 +1,14 @@
+{
+  "home": {
+    "performance": 93,
+    "accessibility": 100,
+    "CLS": 0,
+    "LCP_ms": 1407
+  },
+  "article": {
+    "performance": 100,
+    "accessibility": 100,
+    "CLS": 0,
+    "LCP_ms": 1209
+  }
+}

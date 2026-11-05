@@ -57,7 +57,7 @@ metaLinks:
 
 **PoE** ⇨ 夜灵平原；**Lake** ⇨ 加拉托特湖\
 **Shrine** ⇨ 湖中央的祭坛\
-**Bus** ⇨ 保留英文，用于描述每 2 秒一次的祭坛周期\
+**Bus** ⇨ 每 2 秒一次的祭坛周期及其对应的时间阈值\
 **Preload set** ⇨ 入夜前预加载的第一轮狩猎
 {% endcolumn %}
 {% endcolumns %}
@@ -71,15 +71,3 @@ metaLinks:
 * **FR / MS / CC / CD**：射速／多重射击／暴击几率／暴击伤害。
 * **Pre-VS**：在祭坛提前施放虚空重击。
 * **L / R**：玩家视角的左／右侧关节。
-
-## 已确认译名
-
-* **Vitrica / Ack & Brunt**：金璃剑／认知&冲击。
-* **Log / Horns**：牛角。
-* **Shell Rush**：填弹加速。
-* **Furis Incarnon / Virtuos Shadow**：灵化盗贼／正直暗影。
-* **Power Transfer / Sling Strength / Chained Sling**：力量转移／充能弹射／连锁弹射。
-* **The Shadowgrapher**：《绘影者》。
-* **Vaulted tech / Dead Zone**：已经入库的技巧／空档期。
-* **Fire Manual Trigger Weapons Continuously**：连续发射手动开火武器。
-* 专精学派名称保留英文，如 **Madurai**、**Zenurik**。

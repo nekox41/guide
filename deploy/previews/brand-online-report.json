@@ -1,0 +1,23 @@
+{
+  "base": "https://guide.aameow.com",
+  "portrait": true,
+  "legacySvgRemoved": true,
+  "iconsAndManifest": true,
+  "search": true,
+  "motionControls": true,
+  "reducedMotion": true,
+  "overflow": [],
+  "errors": [],
+  "failed": [],
+  "external": [],
+  "violations": [
+    {
+      "theme": "light",
+      "issues": []
+    },
+    {
+      "theme": "dark",
+      "issues": []
+    }
+  ]
+}
