@@ -34,5 +34,5 @@ metaLinks:
 * Nova 或 Volt 都可以。
 * 最好由 Nova 负责，因为 Volt 还需要收集当晚后续所需的气球。
 
-争取在 1:23.300 左右击破最后一个关节（[<mark style="color:$success;">**查看祭坛周期与班车**</mark>](../../advanced/shrine-cycles-and-bus.md)）。\
+争取在 1:23.300 左右击破最后一个关节（[<mark style="color:$success;">**查看祭坛周期与 Bus**</mark>](../../advanced/shrine-cycles-and-bus.md)）。\
 之后开始准备巨力使出水。

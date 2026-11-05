@@ -25,7 +25,7 @@ Wisp 是目前单人夜灵狩猎中最稳定、最主流的战甲之一。\
 ## **配装**
 
 * [<mark style="color:$success;">**Wisp**</mark>](../../builds/advanced-builds/wisp.md)
-* [<mark style="color:$success;">**天穹之顶：射速、3 多重（待确认：原文 FR 未注明具体射速）**</mark>](../../builds/advanced-builds/zenith.md)。
+* [<mark style="color:$success;">**Zenith FR 3MS**</mark>](../../builds/advanced-builds/zenith.md)
 * [<mark style="color:$success;">**灵化毒囊双枪**</mark>](../../builds/advanced-builds/secondary.md)。
 * [<mark style="color:$success;">**瓦斯提枪刃**</mark>](../../builds/advanced-builds/vastilok.md)。
 * [<mark style="color:$success;">**辐光弩炮**</mark>](../../advanced/mandonel-voltless.md)。

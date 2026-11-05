@@ -48,7 +48,7 @@ metaLinks:
 主机引爆掉落气球时：
 
 * 切换到指挥官。
-* 使用能量转换的倒计时判断虚空重击的施放时机：【待确认：能量转换对应 Power Transfer，专精节点中文名待核对】
+* 使用力量转移的倒计时判断虚空重击的施放时机：
   * 巨力使出水：剩余 13 秒时施放。
 
 <figure><img src="https://1960884447-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FMnWMWMKLrFw5Len33GHR%2Fuploads%2FuZGqVktXyyAGfCSAzxnN%2Funknown.png?alt=media&#x26;token=69fa3a50-36f0-4285-a1c3-0600888ff2cd" alt=""><figcaption></figcaption></figure>

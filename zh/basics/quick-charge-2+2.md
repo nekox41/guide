@@ -35,7 +35,7 @@ metaLinks:
 
 <details>
 
-<summary><strong>倒木 > 东营地【待确认：Log 点位俗称】</strong></summary>
+<summary><strong>牛角 > 东营地</strong></summary>
 
 {% embed url="https://www.youtube.com/watch?v=Qu0Uqn-zHRc" %}
 
@@ -55,7 +55,7 @@ metaLinks:
 
 <details>
 
-<summary><strong>倒木 > 西营地【待确认：Log 点位俗称】</strong></summary>
+<summary><strong>牛角 > 西营地</strong></summary>
 
 {% embed url="https://www.youtube.com/watch?v=-rUNHH4334s" %}
 

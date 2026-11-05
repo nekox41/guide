@@ -28,7 +28,7 @@ metaLinks:
 
 确保增益和时机正确。注意：1 棱镜出现黄色暴击（概率 2.8%）时无法打断关节，因此可以选择：
 
-* 将[**永恒湮灭**](https://wiki.warframe.com/w/Eternal_Eradicate)替换为[**正直暗影（待确认：Virtuos Shadow 中文名）**](https://wiki.warframe.com/w/Virtuos_Shadow)，使 1 棱镜暴击几率超过 200%。
+* 将[**永恒湮灭**](https://wiki.warframe.com/w/Eternal_Eradicate)替换为[**正直暗影**](https://wiki.warframe.com/w/Virtuos_Shadow)，使 1 棱镜暴击几率超过 200%。
 * 使用[**辐光弩炮**](https://wiki.warframe.com/w/Mandonel)，但同时还要收集气球，操作会比较繁琐：[链接](https://youtu.be/XEftgKmor9A)。
 * 或者两种都不用，接受这点概率风险。
 

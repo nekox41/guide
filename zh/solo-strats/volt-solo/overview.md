@@ -22,10 +22,10 @@ Volt 是目前单人夜灵狩猎中最稳定、最主流的战甲之一。
 ## 配装
 
 * Volt。
-* [<mark style="color:$success;">**天穹之顶：3 射速、2 多重（待确认：原文为 3FR，配装页为 3.2 射速）**</mark>](../../builds/advanced-builds/zenith.md)。
+* [<mark style="color:$success;">**Zenith 3FR 2MS**</mark>](../../builds/advanced-builds/zenith.md)
 * 毒囊双枪。
-* ~~不携带近战~~ 也可以使用[**西格玛与南极座**](https://wiki.warframe.com/w/Sigma_%26_Octantis)或[**阿克与布伦特**](https://wiki.warframe.com/w/Ack_%26_Brunt_Incarnon_Genesis#Acquisition)<sub>（</sub><sub>**灵化形态**</sub><sub>）</sub>。&#x20;
-  * 这些武器能避免触发震地攻击，这也是不携带近战的目的。另一种选择是[**玻璃弧光**](https://wiki.warframe.com/w/Vitrica)，但需要通过瞄准取消近战动作。
+* ~~不携带近战~~ 也可以使用[**西格玛与南极座**](https://wiki.warframe.com/w/Sigma_%26_Octantis)或[**认知&冲击**](https://wiki.warframe.com/w/Ack_%26_Brunt_Incarnon_Genesis#Acquisition)<sub>（</sub><sub>**灵化形态**</sub><sub>）</sub>。&#x20;
+  * 这些武器能避免触发震地攻击，这也是不携带近战的目的。另一种选择是[**金璃剑**](https://wiki.warframe.com/w/Vitrica)，但需要通过瞄准取消近战动作。
 
 ## 1-2-7 增幅器
 

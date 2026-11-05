@@ -13,10 +13,8 @@ metaLinks:
 
 ### 虚空弹射的用途
 
-【待确认：Sling Strength 暂译“弹射强化”；Chained Sling 暂译“连锁弹射”，专精节点中文名待核对。】
-
 * **指挥官能量管理**：每次虚空弹射穿过敌人（夜灵）时，指挥官恢复 10 点能量。
-* **Madurai** 的[**弹射强化**](https://wiki.warframe.com/w/Focus/Madurai#Sling_Strength)：提供 40% 技能强度加成。
+* **Madurai** 的[**充能弹射**](https://wiki.warframe.com/w/Focus/Madurai#Sling_Strength)：提供 40% 技能强度加成。
 * [**魔导热熔**](https://wiki.warframe.com/w/Magus_Melt)**赋能**：每层为增幅器增加 30% 火焰伤害，最多叠加 7 层，是击破关节的关键。
 * [**永恒猛攻**](https://wiki.warframe.com/w/Eternal_Onslaught)**赋能**：指挥官能量耗尽后，增幅器暴击几率 +180%（[**虚空弹射**](https://wiki.warframe.com/w/Void_Sling)消耗 25 点能量；Madurai 的[**连锁弹射**](https://wiki.warframe.com/w/Chained_Sling)可使连续弹射的能量消耗减半）。
 

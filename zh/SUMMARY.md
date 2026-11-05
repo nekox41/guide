@@ -45,7 +45,7 @@
   * [夜灵的战斗阶段](basics/eidolon-phases.md)
 * [进阶技巧](advanced/README.md)
   * [进阶目标（6x3 之后）](advanced/advanced-after-6x3.md)
-  * [祭坛周期与班车](advanced/shrine-cycles-and-bus.md)
+  * [祭坛周期与 Bus](advanced/shrine-cycles-and-bus.md)
   * [无 Volt 玩法：辐光弩炮](advanced/mandonel-voltless.md)
   * [悬空放置治愈之塔](advanced/med-tower-midair.md)
   * [在祭坛提前施放虚空重击](advanced/pre-vs-at-shrine.md)
@@ -78,4 +78,3 @@
   * [Wisp + Wisp 双人](duo-strats/wisp-+-wisp-duo.md)
 * [鸣谢](credits.md)
 * [待办事项](to-do.md)
-* [汉化校对与待确认事项](translation-notes.md)

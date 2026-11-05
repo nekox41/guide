@@ -30,7 +30,7 @@ metaLinks:
 
 ## 配装
 
-唯一必备的 MOD 是 [**Shell Rush（待确认：MOD 中文名）**](https://wiki.warframe.com/w/Shell_Rush)，可使蓄力速度提高 50%。
+唯一必备的 MOD 是 [**填弹加速**](https://wiki.warframe.com/w/Shell_Rush)，可使蓄力速度提高 50%。
 
 <figure><img src="https://1960884447-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FMnWMWMKLrFw5Len33GHR%2Fuploads%2FwGk8l9rAindUF3eO9Z4P%2Funknown.png?alt=media&#x26;token=bdc36c07-95f2-492d-812c-470acc9c790e" alt=""><figcaption></figcaption></figure>
 

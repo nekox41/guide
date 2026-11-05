@@ -12,7 +12,7 @@ metaLinks:
 ## 配装
 
 * Volt 双人配装。
-  * [<mark style="color:$success;">**天穹之顶**</mark>](../../builds/advanced-builds/zenith.md)：8.7 射速、2 多重，或 10 射速、3 多重【待确认：原文参数与配装页不一致】。
+  * [<mark style="color:$success;">**Zenith**</mark>](../../builds/advanced-builds/zenith.md) 8.7fr 2ms or 10fr 3ms
   * 毒囊双枪／暗杀者。
   * 瓦斯提枪刃。
 * Nova 双人配装。

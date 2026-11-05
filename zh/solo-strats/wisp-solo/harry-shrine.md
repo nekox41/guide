@@ -12,7 +12,7 @@ metaLinks:
 掉落气球爆炸的瞬间：
 
 * 切换到指挥官。
-* 使用[**能量转换**](https://wiki.warframe.com/w/Focus/Madurai#Power_Transfer)的剩余时间，判断**虚空重击**的施放时机。【待确认：能量转换对应 Power Transfer，专精节点中文名待核对】
+* 使用[**力量转移**](https://wiki.warframe.com/w/Focus/Madurai#Power_Transfer)的剩余时间，判断**虚空重击**的施放时机。
 
 ## 提前施放虚空重击的时机
 
@@ -22,7 +22,7 @@ metaLinks:
 
 {% columns %}
 {% column width="75%" %}
-* 等待能量转换**剩余 11 秒**。
+* 等待力量转移**剩余 11 秒**。
 
 * 施放**虚空重击**，切回战甲。
 * 放入**碎片**。

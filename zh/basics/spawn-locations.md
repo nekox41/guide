@@ -25,5 +25,5 @@ metaLinks:
 <figure><img src="https://1960884447-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FMnWMWMKLrFw5Len33GHR%2Fuploads%2F9Crt8ARDMkvdewdtd4ve%2Funknown.png?alt=media&#x26;token=7198b895-3504-4494-93bd-170fdb6daf7b" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-**天穹之顶**只能通过**每日献礼**获得（额外副本可向中枢 Simaris 兑换），因此最多需要登录 100 天。如果还没有，可以使用[**灵化盗贼（待确认：Furis Incarnon 中文名）**](https://wiki.warframe.com/w/Furis_Incarnon_Genesis)替代，但效果较差。
+**天穹之顶**只能通过**每日献礼**获得（额外副本可向中枢 Simaris 兑换），因此最多需要登录 100 天。如果还没有，可以使用[**灵化盗贼**](https://wiki.warframe.com/w/Furis_Incarnon_Genesis)替代，但效果较差。
 {% endhint %}

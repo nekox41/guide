@@ -22,5 +22,9 @@ metaLinks:
 ## 协作者
 
 * Gov：校对。
-* Lead：提供祭坛周期与班车机制的见解。
+* Lead：提供祭坛周期与 Bus 机制的见解。
 * Kouks：托管。
+
+## 汉化
+
+汉化：Aameow

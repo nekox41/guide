@@ -16,7 +16,7 @@
 
 <details>
 
-<summary>倒木／牛角处的小夜灵【待确认：Log / Horns 点位俗称】</summary>
+<summary>牛角处的小夜灵</summary>
 
 {% embed url="https://youtu.be/G-oymNfNOxw" %}
 

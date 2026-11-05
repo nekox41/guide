@@ -26,18 +26,16 @@ metaLinks:
 * **巨力使**：7 秒。
 * **水力使**：9 秒。
 
-## 利用能量转换计时
+## 利用力量转移计时
 
-【待确认：能量转换对应 Power Transfer，专精节点中文名待核对。】
-
-切换到指挥官时，[**能量转换**](https://wiki.warframe.com/w/Focus/Madurai#Power_Transfer)持续 20 秒，可按以下方式用来判断提前施放的时机：
+切换到指挥官时，[**力量转移**](https://wiki.warframe.com/w/Focus/Madurai#Power_Transfer)持续 20 秒，可按以下方式用来判断提前施放的时机：
 
 ### 巨力使
 
 {% columns %}
 {% column width="75%" %}
 1. 在**掉落气球爆炸**的瞬间，切换到**指挥官**。
-2. 等待能量转换显示<kbd>**剩余 13 秒**</kbd>。
+2. 等待力量转移显示<kbd>**剩余 13 秒**</kbd>。
 3. 施放**虚空重击**。
 4. 放入**碎片**。
 {% endcolumn %}
@@ -52,7 +50,7 @@ metaLinks:
 {% columns %}
 {% column width="75%" %}
 1. 在**掉落气球爆炸**的瞬间，切换到**指挥官**。
-2. 等待能量转换显示<kbd>**剩余 11 秒**</kbd>。
+2. 等待力量转移显示<kbd>**剩余 11 秒**</kbd>。
 3. 施放**虚空重击**。
 4. 放入**碎片**。
 {% endcolumn %}
